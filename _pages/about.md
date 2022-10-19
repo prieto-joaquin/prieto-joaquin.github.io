@@ -18,7 +18,7 @@ I obtained a PhD in Social Policy at LSE. In addition, I hold a BA in Industrial
 
 _Research interests:_  Inequality and Income Mobility, Poverty Dynamics and Labour Mobility, Geography of Opportunity and Spatial Analysis, Longitudinal Survey Methodology and Survey Quality and Applied Micro-econometrics and Social Policies.
 
-You can find my full CV <a href="files/CV_Joaquin_Prieto_October_2022.pdf">here</a>
+You can find my full CV <a href="files/CV_Joaquin_Prieto_October_2022.pdf" target="_blank"> here </a>
 
 __Recent updates__
 
