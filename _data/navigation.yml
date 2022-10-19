@@ -11,15 +11,15 @@ main:
     
   - title: "Policy & Consultancy"
     url: /policy-consultancy/
+
+  - title: "Project"
+    url: /project/
         
   - title: "Others"
     url: /others/
     
   - title: "Contact"
     url: /contact/
-
-  - title: "Project"
-    url: /project/
     
   # - title: "Guide"
   #   url: /markdown/
