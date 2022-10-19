@@ -14,12 +14,12 @@ __Research projects__
 
 __Policy projects__
 
-2012 PI, Origin-Destination Survey (18,000 households). Financed by Transport Secretary from Transport Ministry. <br>
-2012 PI, Cadastre of Slums Households (30,000 households). Financed by Ministry of Housing and Urban Development. <br>
-2011 PI, Households Financial Panel Survey (4,000 households). Financed by The Chilean Central Bank.
-2011 PI, Homeless People Cadastre (12,500 individuals). Financed by Ministry of Social Development.
-2010 PI, National Narcotics Research (17,000 individuals). Financed by National Council for the Control of Narcotics (CONACE).
-2010 PI, National Socioeconomic Characterization Panel Survey (CASEN) Post Earthquake (22,000 households). Financed by Ministry of Social Development.
+2012 PI, __Origin-Destination Survey__ (18,000 households). Financed by the _Transport Secretary from Transport Ministry_. <br>
+2012 PI, __Cadastre of Slums Households__ (30,000 households). Financed by the _Ministry of Housing and Urban Development_. <br>
+2011 PI, __Households Financial Panel Survey__ (4,000 households). Financed by the __Chilean Central Bank__.
+2011 PI, __Homeless People Cadastre__ (12,500 individuals). Financed by the _Ministry of Social Development_.
+2010 PI, N__ational Narcotics Research__ (17,000 individuals). Financed by the _National Council for the Control of Narcotics_ (CONACE).
+2010 PI, __National Socioeconomic Characterization Panel Survey (CASEN) Post Earthquake__(22,000 households). Financed by the _Ministry of Social Development_.
 
 
 
