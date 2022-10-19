@@ -12,8 +12,8 @@ main:
   - title: "Policy & Consultancy"
     url: /policy-consultancy/
 
-    - title: "Projects"
-    url: /projects/  
+  - title: "Projects"
+  url: /projects/  
         
   - title: "Others"
     url: /others/
