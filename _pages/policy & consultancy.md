@@ -33,6 +33,6 @@ __Policy Reports__
 
 __Technical Reports__
 
--	Prieto, J (2015), "A Practical Handbook to Using Data in the Longitudinal Social Protection Survey (LSPS)", Social Security Observatory of Latin America and the Caribbean, Inter-American Development Bank. <a href="2015-Prieto-IDB.pdf"target="_blank">Download</a>
--	Prieto, J., Madrigal, L., Gallegos, F. y Bravo, E. (2015), "Methodological Recommendations for the Longitudinal Social Protection Survey (LSPS)", Social Security Observatory of Latin America and the Caribbean, Inter-American Development Bank. <a href="2015-Prieto_et_al-IDB.pdf"target="_blank">Download</a>
--	Paredes, R., Prieto J., & Zubizarreta J. (2006). Attrition in Longitudinal Data and Income Mobility in Chile. Mimeo. Observatorio Social, Universidad Alberto Hurtado. <a href="2006-Paredes et al-Mimeo_OSUAH.pdf"target="_blank">Download</a>
+-	Prieto, J (2015), "A Practical Handbook to Using Data in the Longitudinal Social Protection Survey (LSPS)", Social Security Observatory of Latin America and the Caribbean, Inter-American Development Bank. <a href="/2015-Prieto-IDB.pdf"target="_blank">Download</a>
+-	Prieto, J., Madrigal, L., Gallegos, F. y Bravo, E. (2015), "Methodological Recommendations for the Longitudinal Social Protection Survey (LSPS)", Social Security Observatory of Latin America and the Caribbean, Inter-American Development Bank. <a href="/2015-Prieto_et_al-IDB.pdf"target="_blank">Download</a>
+-	Paredes, R., Prieto J., & Zubizarreta J. (2006). Attrition in Longitudinal Data and Income Mobility in Chile. Mimeo. Observatorio Social, Universidad Alberto Hurtado. <a href="https://www.dropbox.com/s/u1bv6q4qcyzyk8l/2006-Paredes%20et%20al-Mimeo_OSUAH.pdf?dl=0"target="_blank">Download</a>
