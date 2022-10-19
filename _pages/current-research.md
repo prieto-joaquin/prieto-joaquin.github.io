@@ -14,9 +14,9 @@ __Under review__
 
 __Working papers__
 
-- “Job loss and earnings inequality: Distributional effects from re-employment in Chile" (with Rafael Carranza and Kirsten Sehnbruch)
-- “Understanding income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile” (with Rafael Carranza and Kirsten Sehnbruch)
-- “Understanding Quality of Employment in the UK” (with Kirsten Sehnbruch)
-- “Non-standard employment contracts in the United Kingdom: Stepping-stones or traps to escaping low pay?” (with Kirsten Sehnbruch and Rocío Méndez)
-- “Cumulative economic insecurity” (with Gastón Yalonetzky)
-- "Towards an improved measurement of health financial protection in emerging economies: An application to Chile 2007-2017" (with Lorena Hoffmeister)
+- _Job loss and earnings inequality: Distributional effects from re-employment in Chile_ (with Rafael Carranza and Kirsten Sehnbruch)
+- _Understanding income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile_ (with Rafael Carranza and Kirsten Sehnbruch)
+- _Understanding Quality of Employment in the UK_ (with Kirsten Sehnbruch)
+- _Non-standard employment contracts in the United Kingdom: Stepping-stones or traps to escaping low pay?_ (with Kirsten Sehnbruch and Rocío Méndez)
+- _Cumulative economic insecurity_ (with Gastón Yalonetzky)
+- _Towards an improved measurement of health financial protection in emerging economies: An application to Chile 2007-2017_ (with Lorena Hoffmeister)
