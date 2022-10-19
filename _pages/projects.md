@@ -7,7 +7,7 @@ author_profile: true
 
 __Research projects__
 
-2020-2022 &nbsp;Postdoctoral Researcher, __Measuring the Quality of Employment (QoE) in Middle-Income Countries__. Financed by the British Academy. <br>
+2020-2022 &nbsp;Postdoctoral Researcher, __Measuring the Quality of Employment (QoE) in Middle-Income Countries__. Financed by the _British Academy_. <br>
 2016-2017 &nbsp;Researcher, __Changes in the geography of opportunity in the City of Santiago, Chile: towards a more inclusive city?__.  Financed by _Lincoln Institute of Land Policy LILP_. <br>
 2014-2015 &nbsp;Principal investigator PI, __Daily Mobility of Families at Risk of Falling into Poverty in Santiago, Chile: Anchored by Housing Location and Forced to Move around the City__.  Financed by _LILP_. <br>
 2013-2014 &nbsp;Researcher, __Location Preference of Low Income Households: Housing Mobility and Housing Market in the city of Santiago, Chile__. Financed by LILP. <br>
