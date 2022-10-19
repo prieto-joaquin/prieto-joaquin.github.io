@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<font size="-1">
 
 Hi! I am a Postdoctoral Research Officer at the <a href="http://www.lse.ac.uk/International-Inequalities" target="_blank"> International Inequalities Institute (III)</a>  at the LSE. 
 
@@ -25,6 +24,3 @@ You can find my full CV <a href="files/CV_Joaquin_Prieto_October_2022.pdf" targe
 __Recent updates__
 
 _Job loss and earnings inequality: Distributional effects from re-employment in Chile_. __IZA workshop: Inequality in Post-Transition and Emerging Economies__, on-line, 30 October 2022.
-
-
-</font>
