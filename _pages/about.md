@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a Postdoctoral Research Officer at the <a href="http://www.lse.ac.uk/International-Inequalities" target="_blank"> International Inequalities Institute (III)</a>  at the LSE. 
 
-My current research focuses on three lines of research aimed at expanding and developing new economic and social well-being measures to design better policies that could lead emerging countries towards more inclusive and sustainable development. These research lines are i) forward-looking well-being measures, such as vulnerability to poverty and economic insecurity; ii) spatial measures of inequality, such as the geography of opportunity; iii) labour market development measures, such as quality of employment.
+My current work focuses on three lines of research aimed at expanding and developing new economic and social well-being measures to design better policies that could lead emerging countries towards more inclusive and sustainable development. These research lines are i) forward-looking well-being measures, such as vulnerability to poverty and economic insecurity; ii) spatial measures of inequality, such as the geography of opportunity; iii) labour market development measures, such as quality of employment.
 
 I am a member of the <a href="https://quality-employment.org" target="_blank"> Quality of Employment group</a> of the III at LSE, of <a href="https://sites.google.com/view/weipo/home/who-are-we" target="_blank"> WEIPO</a> (Wellbeing, Inequality, Poverty and Public Policy group in the Department of Economics at the University of Alcalá de Henares, Spain) and the <a href="https://hd-ca.org/thematic_group/work-employment)" target="_blank"> Work and Employment Thematic Group</a> of the Human Development & Capability Association.
 
