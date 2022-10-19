@@ -3,20 +3,23 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Current research"
+    url: /current-research/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Presentations"
+    url: /presentations/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Policy & Consultancy"
+    url: /policy-consultancy/
+
+    - title: "Projects"
+    url: /projects/  
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Others"
+    url: /others/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Contact"
+    url: /contact/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
