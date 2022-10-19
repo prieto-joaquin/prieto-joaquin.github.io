@@ -12,8 +12,8 @@ main:
   - title: "Policy & Consultancy"
     url: /policy-consultancy/
 
-  - title: "Project"
-    url: /project/
+  - title: "Projects"
+    url: /projects/
         
   - title: "Others"
     url: /others/
@@ -21,5 +21,5 @@ main:
   - title: "Contact"
     url: /contact/
     
-  # - title: "Guide"
-  #   url: /markdown/
+# - title: "Guide"
+#   url: /markdown/
