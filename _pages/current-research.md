@@ -9,8 +9,8 @@ redirect_from:
 
 __Under review__
 
-- Prieto, J., Sehnbruch, K., & Vidal, D. (2022). Stuck in a bad job? The Dynamics of Multidimensional Quality of Employment (QoE) Deprivation. _Work and Occupations_ (It was submitted in on 3 October 2022).
-- Degrees of vulnerability to poverty: a low-income dynamic approach for Chile. _Journal of Economic Inequality_ (It will be resubmitted in October).
+- Prieto, J., Sehnbruch, K., & Vidal, D. (2022). Stuck in a bad job? The Dynamics of Multidimensional Quality of Employment (QoE) Deprivation. _Work and Occupations_ (submitted on 3rd October 2022).
+- Degrees of vulnerability to poverty: a low-income dynamic approach for Chile. _Journal of Economic Inequality_ (to be resubmitted in October).
 
 __Working papers__
 
