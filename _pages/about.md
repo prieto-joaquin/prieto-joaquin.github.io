@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<font size="-1">
+
 Hi! I am a Postdoctoral Research Officer at the <a href="http://www.lse.ac.uk/International-Inequalities" target="_blank"> International Inequalities Institute (III)</a>  at the LSE. 
 
 My current work focuses on three lines of research aimed at expanding and developing new economic and social well-being measures to design better policies that could lead emerging countries towards more inclusive and sustainable development. These research lines are i) forward-looking well-being measures, such as vulnerability to poverty and economic insecurity; ii) spatial measures of inequality, such as the geography of opportunity; iii) labour market development measures, such as quality of employment.
@@ -24,3 +26,5 @@ __Recent updates__
 
 _Job loss and earnings inequality: Distributional effects from re-employment in Chile_. __IZA workshop: Inequality in Post-Transition and Emerging Economies__, on-line, 30 October 2022.
 
+
+</font>
