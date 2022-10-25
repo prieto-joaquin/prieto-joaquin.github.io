@@ -23,4 +23,6 @@ You can find my full CV <a href="files/CV_Joaquin_Prieto_October_2022.pdf" targe
 
 __Recent updates__
 
-_Job loss and earnings inequality: Distributional effects from re-employment in Chile_. __IZA workshop: Inequality in Post-Transition and Emerging Economies__, on-line, 30 October 2022.
+_Job loss and earnings inequality: Distributional effects from re-employment in Chile_. __IZA workshop: Inequality in Post-Transition and Emerging Economies__, on-line, 28 October 2022.
+
+_Insecurity is everywhere”: A global precarious employment approach_. __CNAM: Bourdieu, Work and Inequalities conference__, Paris, 17 November 2022.
