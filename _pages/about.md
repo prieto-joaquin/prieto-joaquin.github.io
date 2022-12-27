@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I am a Postdoctoral Research Officer at the <a href="http://www.lse.ac.uk/International-Inequalities" target="_blank"> International Inequalities Institute (III)</a>  at the LSE. 
+Hi! I am a Visiting Feellow at the <a href="http://www.lse.ac.uk/International-Inequalities" target="_blank"> International Inequalities Institute (III)</a>  at the LSE. 
 
 My current work focuses on three lines of research aimed at expanding and developing new economic and social well-being measures to design better policies that could lead emerging countries towards more inclusive and sustainable development. These research lines are i) forward-looking well-being measures, such as vulnerability to poverty and economic insecurity; ii) spatial measures of inequality, such as the geography of opportunity; iii) labour market development measures, such as quality of employment.
 
@@ -22,6 +22,8 @@ _Research interests:_  Inequality and Income Mobility, Poverty Dynamics and Labo
 You can find my full CV <a href="files/CV_Joaquin_Prieto_October_2022.pdf" target="_blank"> here </a>
 
 __Recent updates__
+
+Prieto, J., Sehnbruch, K., & Vidal, D. (2022). __A dynamic counting approach to measure multidimensional deprivations in jobs over time__. _Applied Economics Letters_  Early view: <a href="https://doi.org/10.1080/13504851.2022.2156460" target="_blank"> https://doi.org/10.1080/13504851.2022.2156460</a>
 
 _Job loss and earnings inequality: Distributional effects from re-employment in Chile_. __IZA workshop: Inequality in Post-Transition and Emerging Economies__, on-line, 28 October 2022.
 
