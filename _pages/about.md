@@ -23,8 +23,6 @@ You can find my full CV <a href="files/CV_Joaquin_Prieto_October_2022.pdf" targe
 
 __Recent updates__
 
+Comparative Economic Inequality Conference 2023. __III & LIS__, London, 24 February 2023.
+
 Prieto, J., Sehnbruch, K., & Vidal, D. (2022). __A dynamic counting approach to measure multidimensional deprivations in jobs over time__. _Applied Economics Letters_  Early view: <a href="https://doi.org/10.1080/13504851.2022.2156460" target="_blank"> https://doi.org/10.1080/13504851.2022.2156460</a>
-
-_Job loss and earnings inequality: Distributional effects from re-employment in Chile_. __IZA workshop: Inequality in Post-Transition and Emerging Economies__, on-line, 28 October 2022.
-
-_"Insecurity is everywhere”: A global precarious employment approach_. __CNAM: Bourdieu, Work and Inequalities conference__, Paris, 17 November 2022.
