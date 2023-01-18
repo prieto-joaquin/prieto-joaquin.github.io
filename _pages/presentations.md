@@ -22,6 +22,7 @@ __Talks__
 
 __Conferences__
 
+- Comparative Economic Inequality Conference 2023. __III & LIS__, London, 24 February 2023. 
 - Poverty traps and affluence shields: modelling the persistence of income position. __ILO webinar__, 30 September 2022.
 - A multidimensional-dynamic framework to measure QoE based on capability-approach: evidence from Chile, 2004-2022. __HDCA 2022__, Antwerp, 20 September 2022.
 - Beyond informal employment to understand labour markets development: A precarious employment dynamic approach. __SASE 2022__, Amsterdam, 9 July 2022.
