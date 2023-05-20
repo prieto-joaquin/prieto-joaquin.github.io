@@ -19,9 +19,11 @@ I obtained a PhD in Social Policy at LSE. In addition, I hold a BA in Industrial
 
 _Research interests:_  Inequality and Income Mobility, Poverty Dynamics and Labour Mobility, Geography of Opportunity and Spatial Analysis, Longitudinal Survey Methodology and Survey Quality and Applied Micro-econometrics and Social Policies.
 
-You can find my full CV <a href="files/CV_Joaquin_Prieto_October_2022.pdf" target="_blank"> here </a>
+You can find my full CV <a href="files/CV_Joaquin_Prieto_May_2023.pdf" target="_blank"> here </a>
 
 __Recent updates__
+
+Tenth Meeting of the Society for the Study of Economic Inequality. Central Aix-en-Provence, 10-12 July 2023.
 
 Comparative Economic Inequality Conference 2023. __III & LIS__, London, 24 February 2023.
 

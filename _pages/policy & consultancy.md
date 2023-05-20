@@ -7,7 +7,7 @@ author_profile: true
 
 __Consultancy and policy experience__
 
-2022-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consultant, International Labour Organization ILO. Lima. <br>
+2022-2023 &nbsp;Consultant, International Labour Organization ILO. Lima. <br>
 2017-2018 &nbsp;Consultant, Organisation for Economic Co-Operation and Development OECD. Paris. <br>
 2015-2016 &nbsp;Consultant, Inter-American Development Bank I-ADB. Washington DC. <br>
 2013-2015 &nbsp;Consultant, Rand Corporation. Santa Mónica. <br>
@@ -15,14 +15,15 @@ __Consultancy and policy experience__
 
 __Research experience__
 
-2020- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research officer, International Inequalities Institute at LSE. London. <br>
+2020- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting Fellow, International Inequalities Institute at LSE. London.  <br>
+2020-2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research officer, International Inequalities Institute at LSE. London. <br>
 2022 March Visiting Fellow, WEIPO at University of Alcalá de Henares. Madrid. <br>
 2014-2015 &nbsp;Visting scholar, Boston College. Boston. <br>
 2013-2014 &nbsp;Visting fellow, Lincoln Institute of Land Policy LILP. Cambridge, MA. <br>
 
 __Policy Reports__
 
-
+- Maurizio, R., & Prieto, J. (2022). __Poverty and the phenomenon of the working poor__. En Labor Review 2022. Lima: OIT: Oficina Regional para LAC. (In Spanish). <a href="https://mexico.un.org/sites/default/files/2023-02/panorama_laboral_Am%C3%A9ricaLatinayelCaribe_2022_OIT.pdf" target="_blank"> Download </a>
 -	Brain J. & Prieto J. (2018). __Understanding Changes in the Geography of Opportunity__. Working paper WP18IB2. Lincoln Institute of Land Policy LILP. Cambridge, MA. <a href="https://www.lincolninst.edu/publications/working-papers/understanding-changes-in-geography-opportunity" target="_blank"> Download</a>
 -	Prieto J., & Brain J. (2018). __Daily mobility and changes in the geography of opportunities in the city of Santiago: What has happened to families living bad located?__ Working paper WP18JP1SP. Lincoln Institute of Land Policy LILP. Cambridge, MA. (In Spanish).<a href="https://www.lincolninst.edu/publications/working-papers/movilidad-cotidiana-cambios-en-la-geografia-oportunidades-en-la-ciudad" target="_blank"> Download</a>
 - Maldonado, L., Prieto, J. and Lay, S. (2016). __The dynamics of poverty in Chile during the period 2006-2009__. Agenda theme series Nº 87, _Centro UC de Políticas Públicas_. (In Spanish). <a href="https://politicaspublicas.uc.cl/wp-content//uploads/2016/08/N%C2%B0-87-Din%C3%A1micas-de-la-pobreza-en-Chile.pdf" target="_blank"> Download</a> 
