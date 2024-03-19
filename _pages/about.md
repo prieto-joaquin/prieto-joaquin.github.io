@@ -24,9 +24,10 @@ You can find my full CV <a href="files/CV_Joaquin_Prieto_Mar_2024.pdf" target="_
 
 __Recent updates__
 
-1st WAPLAC workshop. San José Costa Rica, 09-10 May 2024.
 
 81st Annual Midwest Political Science Association Conference. Chicago, 04-07 April 2024.
+
+1st WAPLAC workshop. San José Costa Rica, 09-10 May 2024.
 
 54th Poetry International Festival. Rotterdam, 07-09 June 2024.
 
