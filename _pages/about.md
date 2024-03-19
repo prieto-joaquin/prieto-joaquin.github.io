@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I am a Visiting Fellow at the <a href="http://www.lse.ac.uk/International-Inequalities" target="_blank"> International Inequalities Institute (III)</a>  at the LSE. 
+Hi! I am a Visiting Fellow at the <a href="http://www.lse.ac.uk/International-Inequalities" target="_blank"> International Inequalities Institute (III)</a>  at the LSE and responsible for the  <a href="https://gobierno.uchile.cl/postgrado/educacion-continua/cursos-ejecutivos" target="_blank"> Diploma in Advanced Methods in Statistics and Data Science of the Faculty of Government of the University of Chile.</a>
 
 My current work focuses on three lines of research aimed at expanding and developing new economic and social well-being measures to design better policies that could lead emerging countries towards more inclusive and sustainable development. These research lines are i) forward-looking well-being measures, such as vulnerability to poverty and economic insecurity; ii) spatial measures of inequality, such as the geography of opportunity; iii) labour market development measures, such as quality of employment.
 
