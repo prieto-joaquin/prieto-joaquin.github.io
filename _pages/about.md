@@ -17,8 +17,7 @@ I am a member of the <a href="http://waplac.org/country-members" target="_blank"
 
 I obtained a PhD in Social Policy at LSE. In addition, I hold a BA in Industrial Engineering, an MSc in Economy and Environmental Management and post-graduate studies in Sociology from Universidad Católica in Chile. Before joining LSE International Inequalities Institute, I founded and directed the Social Observatory at Universidad Alberto Hurtado in Chile (specialized in longitudinal data for social policy design, implementation and monitoring). Complementarily, I have worked as a consultant for the OECD, I-ADB, ILO, and Rand Corporation and as a research fellow at Lincoln Institute Land Policy.
 
-_Research interests:_  Poverty dynamics and income mobility; Longitudinal survey methodology and survey quality; Well-being and welfare states development; Geography of opportunity and spatial analysis; Inequality and labour markets; Applied micro-econometrics and social policies
-.
+_Research interests:_  Poverty dynamics and income mobility; Longitudinal survey methodology and survey quality; Well-being and welfare states development; Geography of opportunity and spatial analysis; Inequality and labour markets; Applied micro-econometrics and social policies.
 
 You can find my full CV <a href="files/CV_Joaquin_Prieto_Mar_2024.pdf" target="_blank"> here </a>
 
