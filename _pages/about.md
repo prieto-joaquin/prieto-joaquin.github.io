@@ -24,15 +24,15 @@ You can find my full CV <a href="files/CV_Joaquin_Prieto_Mar_2024.pdf" target="_
 __Recent updates__
 
 
-81st Annual Midwest Political Science Association Conference. Chicago, 04-07 April 2024.
-
-1st WAPLAC workshop. San José Costa Rica, 09-10 May 2024.
-
-54th Poetry International Festival. Rotterdam, 07-09 June 2024.
+38th IARIW General Conference. London, 26-30 August 2024.
 
 SASE. Limerick. 27-29 June 2024.
 
-38th IARIW General Conference. London, 26-30 August 2024.
+54th Poetry International Festival. Rotterdam, 07-09 June 2024.
+
+1st WAPLAC workshop. San José Costa Rica, 09-10 May 2024.
+
+81st Annual Midwest Political Science Association Conference. Chicago, 04-07 April 2024.
 
 
 Prieto, J. (2024). __Degrees of vulnerability to poverty: a low-income dynamics approach for Chile__. _Journal of Economic Inequality_  Early view: <a href="https://link.springer.com/article/10.1007/s10888-023-09611-8" target="_blank"> https://doi.org/10.1007/s10888-023-09611-8</a>
