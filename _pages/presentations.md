@@ -17,11 +17,14 @@ __Talks__
 - Degrees of vulnerability to poverty: a low-income dynamic approach for Chile. __Lecture in the Master of Applied Economic Analysis__. Alcalá University & WEIPO, webinar, 29 October 2020.
 - Measuring economic insecurity: an application to Chile, __Núcleo Milenio en Desarrollo Social__, Santiago, Chile, 28 January 2020.
 - New approaches to measuring economic and social well-being in Chile, __Fundación para la Superación de la Pobreza__, at Santiago, Chile, 13 December 2019.
-- Neighborhood effect on poverty dynamics in the city of Santiago, Chile, __COES Seminar__, Santiago, Chile, 20 March, 2017.
 - Changes in the geography of opportunity in the City of Santiago: towards a more inclusive city?, __COES Seminar__, Santiago, Chile, 20 December 2017.
+- Neighborhood effect on poverty dynamics in the city of Santiago, Chile, __COES Seminar__, Santiago, Chile, 20 March, 2017.
+
 
 __Conferences__
 
+- Job loss and earnings inequality: Distributional effects from re-employment in Chile”. __II International Conference: Labour Transitions and Income Dynamics in Latin America__, Buenos Aires, 27 November 2023.
+- Cumulative economic insecurity”. __10th International COES Conference__, Santiago, 9 November 2023. 
 - Comparative Economic Inequality Conference 2023. __III & LIS__, London, 24 February 2023. 
 - Poverty traps and affluence shields: modelling the persistence of income position. __ILO webinar__, 30 September 2022.
 - A multidimensional-dynamic framework to measure QoE based on capability-approach: evidence from Chile, 2004-2022. __HDCA 2022__, Antwerp, 20 September 2022.

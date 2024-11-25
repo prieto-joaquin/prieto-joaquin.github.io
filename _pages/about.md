@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I am a Visiting Fellow at the <a href="http://www.lse.ac.uk/International-Inequalities" target="_blank"> International Inequalities Institute (III)</a>  at the LSE and responsible for the Diploma in <a href="https://gobierno.uchile.cl/postgrado/educacion-continua/cursos-ejecutivos" target="_blank">Advanced Methods in Statistics and Data Science</a> of the Faculty of Government of the University of Chile.
+Hi! I am a Visiting Fellow at the <a href="https://www.lse.ac.uk/International-Inequalities/People/Joaquin-Prieto" target="_blank"> International Inequalities Institute (III)</a>  at the LSE and responsible for the Diploma in <a href="https://gobierno.uchile.cl/postgrado/educacion-continua/cursos-ejecutivos" target="_blank">Advanced Methods in Statistics and Data Science</a> of the Faculty of Government of the University of Chile.
 
 My current work focuses on three lines of research aimed at expanding and developing new economic and social well-being measures to design better policies that could lead emerging countries towards more inclusive and sustainable development. These research lines are i) forward-looking well-being measures, such as vulnerability to poverty and economic insecurity; ii) spatial measures of inequality, such as the geography of opportunity; iii) labour market development measures, such as quality of employment.
 
