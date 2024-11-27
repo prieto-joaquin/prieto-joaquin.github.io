@@ -8,12 +8,18 @@ author_profile: true
 
 __Workshops__
 
+1.	Income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile”. __1st WAPLAC workshop__, San José Costa Rica, 11 May 2024.
+2.	A Step-by-Step Approach to: Measuring Economic Insecurity. __CLACS, University of Illinois__, 10 April 2024.
 - Job loss and earnings inequality: Distributional effects from re-employment in Chile. __IZA workshop: Inequality in Post-Transition and Emerging Economies__, on-line, 30 October 2022.
 - Understanding the attrition bias in Chile: evidence from two longitudinal surveys, __28th International Workshop on Household Survey Nonresponse__, Utrecht, The Netherlands, September 1, 2017.
 - Continuity and sustainability of the Longitudinal Social Protection (LSPS): A rotating panel design proposal for the LSPS, __IDB: Methodological Analysis Workshop__, Santiago, Chile, 24 March, 2017.
 
 __Talks__
 
+1.	Vulnerability Metrics. __Mesa Temática de Trabajo del Futuro, Comisión Desafíos del Futuro del Senado de Chile__, Santiago, 5 August 2024.
+2.	The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America. __PEEI Seminar of the Faculty of Government of the Universidad de Chile__, Santiago, 9 July 2024.
+3.	Job loss and earnings inequality. __Mesa Temática de Trabajo del Futuro, Comisión Desafíos del Futuro del Senado de Chile__, Santiago, 2 July 2024.
+4.	Vulnerability Metrics: Redefining Welfare in LAC. __CLACS, University of Illinois__, 10 April 2024.
 - Degrees of vulnerability to poverty: a low-income dynamic approach for Chile. __Lecture in the Master of Applied Economic Analysis__. Alcalá University & WEIPO, webinar, 29 October 2020.
 - Measuring economic insecurity: an application to Chile, __Núcleo Milenio en Desarrollo Social__, Santiago, Chile, 28 January 2020.
 - New approaches to measuring economic and social well-being in Chile, __Fundación para la Superación de la Pobreza__, at Santiago, Chile, 13 December 2019.
