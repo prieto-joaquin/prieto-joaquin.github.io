@@ -29,7 +29,7 @@ Prieto, J. (2024). __Degrees of vulnerability to poverty: a low-income dynamics 
 
 Prieto, J., Sehnbruch, K., & Vidal, D. (2024). __A dynamic counting approach to measure multidimensional deprivations in jobs__. _Applied Economics Letters_, 31(10), 907–912.  <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2022.2156460" target="_blank"> https://doi.org/10.1080/13504851.2022.2156460</a>
 
-_Presenations_
+_Presentations_
 
 Workshops
 
