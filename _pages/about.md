@@ -23,28 +23,32 @@ You can find my full CV <a href="files/CV_Joaquin_Prieto_Mar_2024.pdf" target="_
 
 __Recent updates__
 
+_Publications_
+
 Prieto, J. (2024). __Degrees of vulnerability to poverty: a low-income dynamics approach for Chile__. _Journal of Economic Inequality_  Early view: <a href="https://link.springer.com/article/10.1007/s10888-023-09611-8" target="_blank"> https://doi.org/10.1007/s10888-023-09611-8</a>
 
 Prieto, J., Sehnbruch, K., & Vidal, D. (2024). __A dynamic counting approach to measure multidimensional deprivations in jobs__. _Applied Economics Letters_, 31(10), 907–912.  <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2022.2156460" target="_blank"> https://doi.org/10.1080/13504851.2022.2156460</a>
 
+_Presenations_
+
 Workshops
 
-_Income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile_. 1st WAPLAC workshop, San José Costa Rica, 11 May 2024.
-_A Step-by-Step Approach to: Measuring Economic Insecurity_. CLACS, University of Illinois, 10 April 2024.
+1.  Income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile”. __1st WAPLAC workshop__, San José Costa Rica, 11 May 2024.
+2.  A Step-by-Step Approach to: Measuring Economic Insecurity. __CLACS, University of Illinois__, 10 April 2024.
 
 Talks
 
-_Vulnerability Metrics_. Mesa Temática de Trabajo del Futuro, Comisión Desafíos del Futuro del Senado de Chile, Santiago, 5 August 2024.
-_The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America_. Seminario PEEI de la Facultad de Gobierno de la Universidad de Chile, Santiago, 9 July 2024.
-_Job loss and earnings inequality_. Mesa Temática de Trabajo del Futuro, Comisión Desafíos del Futuro del Senado de Chile, Santiago, 2 July 2024.
-_Vulnerability Metrics: Redefining Welfare in LAC_. CLACS, University of Illinois, 10 April 2024.
+1.  Vulnerability Metrics. __Mesa Temática de Trabajo del Futuro, Comisión Desafíos del Futuro del Senado de Chile__, Santiago, 5 August 2024.
+2.  The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America. __PEEI Seminar of the Faculty of Government of the Universidad de Chile__, Santiago, 9 July 2024.
+3.  Job loss and earnings inequality. __Mesa Temática de Trabajo del Futuro, Comisión Desafíos del Futuro del Senado de Chile__, Santiago, 2 July 2024.
+4.  Vulnerability Metrics: Redefining Welfare in LAC. __CLACS, University of Illinois__, 10 April 2024.
 
 Conferences
 
-_Income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile_. III International Conference: Labour Transitions and Income Dynamics in Latin America, Buenos Aires, 6 December 2024.
-_Degrees of vulnerability to poverty: a low-income dynamics approach for Chile_. 2do Congreso Latinoamericano de Ciencias Sociales y Gobierno (La Triada), Santiago, 14 November 2024.
-_The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America_. 38th IARIW General Conference, London, 27 August 2024.
-_The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America_. SASE 2024, Limerick, 20 June 2024.
-_Cumulative precariousness: Re-examining the capability approach to work_. SASE 2024, Limerick, 20 June 2024.
-_How does vulnerability to poverty affect subjective well-being in Chile?: A secure middle-class perspective_. XII Congreso Chileno de Sociología, 4 May 2024.
-_The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America_. MPSA 2024, Chicago, 5 April 2024.
+1.  Understanding income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile. __III International Conference: Labour Transitions and Income Dynamics in Latin America__, Buenos Aires, 6 December 2024.
+2.  Degrees of vulnerability to poverty: a low-income dynamics approach for Chile. __2do Congreso Latinoamericano de Ciencias Sociales y Gobierno (La Triada)__, Santiago, 14 November 2024.
+3.  The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America. __38th IARIW General Conference__, London, 27 August 2024.
+4.  The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America. __SASE 2024, Limerick__, 20 June 2024.
+5.  Cumulative precariousness: Re-examining the capability approach to work. __SASE 2024, Limerick__, 20 June 2024.
+6.  How does vulnerability to poverty affect subjective well-being in Chile?: A secure middle-class perspective. __XII Congreso Chileno de Sociología__, 4 May 2024.
+7.  The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America.__MPSA 2024__, Chicago, 5 April 2024.
