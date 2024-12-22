@@ -25,6 +25,8 @@ __Recent updates__
 
 _Publications_
 
+Prieto, J. & Hoffmeister, L. (2024).(with Lorena Hoffmeister). __Towards better measurement of financial risk protection in health expenditure: the case of Chile__. _Value in Health Regional Issues_ (forthcoming).
+
 Prieto, J. (2024). __Degrees of vulnerability to poverty: a low-income dynamics approach for Chile__. _Journal of Economic Inequality_  Early view: <a href="https://link.springer.com/article/10.1007/s10888-023-09611-8" target="_blank"> https://doi.org/10.1007/s10888-023-09611-8</a>
 
 Prieto, J., Sehnbruch, K., & Vidal, D. (2024). __A dynamic counting approach to measure multidimensional deprivations in jobs__. _Applied Economics Letters_, 31(10), 907–912.  <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2022.2156460" target="_blank"> https://doi.org/10.1080/13504851.2022.2156460</a>
