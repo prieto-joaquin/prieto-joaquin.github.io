@@ -15,7 +15,7 @@ My current work focuses on four lines of research aimed at expanding and develop
 i) forward-looking well-being measures, such as vulnerability to poverty and economic insecurity;
 ii) the comparative study of welfare state regimes and regional development;
 iii) the dynamics between the public and private sectors in shaping labour markets; and
-iv) the use of data science to inform government and public policy, with a strong focus on evidence-based policy evaluation.
+iv) the use of data science to inform government and public policy, with a focus on evidence-based policy evaluation.
 
 I obtained a PhD in Social Policy at LSE. In addition, I hold a BA in Industrial Engineering, an MSc in Economy and Environmental Management and postgraduate studies in Sociology from Universidad Católica in Chile. Before joining LSE International Inequalities Institute, I founded and directed the Social Observatory at Universidad Alberto Hurtado in Chile (specialized in longitudinal data for social policy design, implementation and monitoring). Complementarily, I have worked as a consultant for the OECD, I-ADB, ILO, ECLAC, and Rand Corporation and as a research fellow at Lincoln Institute Land Policy.
 
