@@ -9,9 +9,8 @@ redirect_from:
 
 __Under review__
 
-1.  (with Kirsten Sehnbruch and Diego Vidal). __Stuck in a bad job? The Dynamics of Multidimensional Quality of Employment (QoE) Deprivation__. _Social Science Research_ (resubmitted on 18 September 2024).
-2.  (with Rafael Carranza and Kirsten Sehnbruch). __Job loss and earnings inequality: Distributional effects from re-employment in Chile__. _Economic Analysis and Policy_ (resubmitted on 10 October 2024).
-3.  (with Noam Titelman). __The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for democracy in Latin America__. _Latin American Policy_. (submitted on 4 November 2024).
+1.  (with Kirsten Sehnbruch and Diego Vidal). __Stuck in a bad job? The Dynamics of Multidimensional Quality of Employment (QoE) Deprivation__. _Social Science Research_ (resubmitted on 02 February 2024).
+2.  (with Noam Titelman). __The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for democracy in Latin America__. _Latin American Policy_. (submitted on 4 November 2024).
 
 
 __Working papers__

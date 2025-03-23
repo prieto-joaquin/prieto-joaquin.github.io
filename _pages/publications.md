@@ -8,7 +8,7 @@ author_profile: true
 __Peer reviewed journal articles (WoS & JCR / Scopus & SJR)__
 
 
-1.  Prieto, J. & Hoffmeister, L. (2024). __Towards better measurement of financial risk protection in health expenditure: the case of Chile__. _Value in Health Regional Issues_ (forthcoming).
+1.  Prieto, J. & Hoffmeister, L. (2025). __Towards better measurement of financial risk protection in health expenditure: the case of Chile__. _Value in Health Regional Issues_ (forthcoming).
 2.  Carranza, R., Prieto, J., & Sehnbruch, K. (2025). __Job loss and earnings inequality: Distributional effects from re-employment in Chile__. _Economic Analysis and Policy_ Early view: <a href="https://www.sciencedirect.com/science/article/pii/S0313592625000530" target="_blank"> https://doi.org/10.1016/j.eap.2025.02.021</a>
 3. Prieto, J. (2024). __Degrees of vulnerability to poverty: a low-income dynamics approach for Chile__. _Journal of Economic Inequality_  Early view: <a href="https://link.springer.com/article/10.1007/s10888-023-09611-8" target="_blank"> https://doi.org/10.1007/s10888-023-09611-8</a>
 4. Prieto, J., Sehnbruch, K., & Vidal, D. (2024). __A dynamic counting approach to measure multidimensional deprivations in jobs over time__. _Applied Economics Letters_ <a href="https://doi.org/10.1080/13504851.2022.2156460" target="_blank"> https://doi.org/10.1080/13504851.2022.2156460</a>

@@ -40,10 +40,10 @@ Prieto, J., Sehnbruch, K., & Vidal, D. (2024). __A dynamic counting approach to 
 _Presentations_
 
 Conferences
-1.  Why does subjective socio-economic insecurity remain so high in Latin America? Revisiting the question during the 2000-2024 period. __SASE 2025, Montreal__, 10 July 2025 & __MPSA 2025__, Chicago, 4 April 2025.
+1.  Why does subjective socio-economic insecurity remain so high in Latin America? Revisiting the question during the 2000-2024 period. __SASE 2025, Montreal__, 10 July 2025 | __MPSA 2025, Chicago__, 4 April 2025.
 2.  Understanding income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile. __III International Conference: Labour Transitions and Income Dynamics in Latin America__, Buenos Aires, 6 December 2024.
 3.  Degrees of vulnerability to poverty: a low-income dynamics approach for Chile. __2do Congreso Latinoamericano de Ciencias Sociales y Gobierno (La Triada)__, Santiago, 14 November 2024.
-4.  The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America. __38th IARIW General Conference__, London, 27 August 2024; __MPSA 2024__, Chicago, 5 April 2024 & __SASE 2024, Limerick__, 20 June 2024.
+4.  The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America. __38th IARIW General Conference__, London, 27 August 2024 | __MPSA 2024__, Chicago, 5 April 2024 | __SASE 2024, Limerick__, 20 June 2024.
 5.  Cumulative precariousness: Re-examining the capability approach to work. __SASE 2024, Limerick__, 20 June 2024.
 6.  How does vulnerability to poverty affect subjective well-being in Chile?: A secure middle-class perspective. __XII Congreso Chileno de Sociología__, 4 May 2024.
 
