@@ -29,7 +29,7 @@ __Recent updates__
 
 _Publications_
 
-Prieto, J. & Hoffmeister, L. (2025).(with Lorena Hoffmeister). __Towards better measurement of financial risk protection in health expenditure: the case of Chile__. _Value in Health Regional Issues_ (forthcoming).
+Prieto, J. & Hoffmeister, L. (2025). __Towards better measurement of financial risk protection in health expenditure: the case of Chile__. _Value in Health Regional Issues_ (forthcoming).
 
 Carranza, R., Prieto, J., &  Sehnbruch, K. (2025). __Job loss and earnings inequality: Distributional effects from re-employment in Chile__. _Economic Analysis and Policy_. Early view: <a href="https://www.sciencedirect.com/science/article/pii/S0313592625000530" target="_blank"> https://doi.org/10.1016/j.eap.2025.02.021</a>
 
