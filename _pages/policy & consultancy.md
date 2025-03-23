@@ -7,6 +7,7 @@ author_profile: true
 
 __Consultancy and policy experience__
 
+2024-2025 &nbsp;Consultant, United Nations Economic Commission for Latin America and the Caribbean ECLAC. Santiago. <br>
 2022-2023 &nbsp;Consultant, International Labour Organization ILO. Lima. <br>
 2017-2018 &nbsp;Consultant, Organisation for Economic Co-Operation and Development OECD. Paris. <br>
 2015-2016 &nbsp;Consultant, Inter-American Development Bank I-ADB. Washington DC. <br>
@@ -15,7 +16,7 @@ __Consultancy and policy experience__
 
 __Research experience__
 
-2022-2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting Fellow, International Inequalities Institute at LSE. London.  <br>
+2022-2028 &nbsp;&nbsp;&nbsp;&nbsp; Visiting Fellow, International Inequalities Institute at LSE. London. <br>
 2020-2022 &nbsp;Research officer, International Inequalities Institute at LSE. London. <br>
 2022 March Visiting Fellow, WEIPO at University of Alcalá de Henares. Madrid. <br>
 2014-2015 &nbsp;Visting scholar, Boston College. Boston. <br>
