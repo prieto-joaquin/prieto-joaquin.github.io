@@ -16,7 +16,7 @@ __Consultancy and policy experience__
 
 __Research experience__
 
-2022-2028 &nbsp;&nbsp; Visiting Fellow, International Inequalities Institute at LSE. London. <br>
+2022-2028 &nbsp;Visiting Fellow, International Inequalities Institute at LSE. London. <br>
 2020-2022 &nbsp;Research officer, International Inequalities Institute at LSE. London. <br>
 2022 March Visiting Fellow, WEIPO at University of Alcalá de Henares. Madrid. <br>
 2014-2015 &nbsp;Visting scholar, Boston College. Boston. <br>
