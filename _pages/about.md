@@ -23,7 +23,7 @@ I am a member of the <a href="http://waplac.org/country-members" target="_blank"
 
 _Research interests:_  Emerging welfare architectures; data-driven policy innovation; dynamic and multidimensional approaches to poverty and inequality in global development contexts; economic security in a changing world of work; regional inequalities and spatial disparities; cross-national approaches to social protection; collaborative public-private governance in evolving labour markets; public sector innovation.
 
-You can find my full CV <a href="files/CV_Joaquin_Prieto_Mar_2024.pdf" target="_blank"> here </a>
+You can find my full CV <a href="files/CV_Joaquin_Prieto_2025.pdf" target="_blank"> here </a>
 
 __Recent updates__
 
