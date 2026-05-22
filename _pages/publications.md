@@ -28,6 +28,10 @@ li.pub-open .paper-actions{display:flex;}
 .pa-panel{margin:6px 0 4px 1.4em;padding:10px 14px;background:#f7f7f6;border-left:3px solid #52adc8;border-radius:0 5px 5px 0;font-size:.92em;text-align:justify;}
 .pa-panel[hidden]{display:none;}
 li:not(.pub-open) .pa-panel{display:none;}
+.stag{display:inline-block;font-size:.7em;font-weight:bold;letter-spacing:.3px;text-transform:uppercase;padding:1px 7px;border-radius:10px;margin-left:6px;vertical-align:1px;}
+.stag-rr{background:#f6efe0;color:#8a5a12;}
+.stag-sub{background:#e6f1f6;color:#2c7088;}
+.stag-prog{background:#edf3e3;color:#5c7a26;}
 </style>
 <div class="research-tabs" role="tablist" aria-label="Research sections">
 <button type="button" role="tab" data-tab="published" aria-selected="true">Published Papers</button>
@@ -54,16 +58,16 @@ li:not(.pub-open) .pa-panel{display:none;}
 </div>
 <div class="research-panel" data-panel="wip" role="tabpanel" hidden>
 <ol>
-<li><em>Why does economic pessimism remain so high in Latin America? Revisiting the question during the 2001-2023 period.</em> (with Noam Titelman). <strong>R&amp;R</strong>.</li>
-<li><em>More Than a Bad Job: Precarious Work as a Multidimensional Capability Failure.</em> <strong>Submitted</strong>.</li>
-<li><em>Automation without a Right Turn? Technological Anxiety, Economic Insecurity and Democratic Attitudes in Latin America</em> (with Noam Titelman). <strong>Submitted</strong>.</li>
-<li><em>Debt, Age, and the Conversion Gap in Subjective Economic Hardship: Evidence from Chile</em> (with Gonzalo Torres). <strong>Submitted</strong>.</li>
-<li><em>How does vulnerability to poverty affect subjective well-being? A secure middle-class perspective for Chile</em> (with Gonzalo Torres). <strong>In progress</strong>.</li>
-<li><em>Multidimensional Inequality in Latin America</em> (with the CEPAL team). <strong>In progress</strong>.</li>
-<li><em>Economic Insecurity, Not Inequality? Explaining Social Protest Participation in Chile</em> (with Benjamín Lang). <strong>In progress</strong>.</li>
-<li><em>Measuring and Valuing Subjective Well-Being: Applying the WELLBY Framework to Chile</em> (with Camila Herrera). <strong>In progress</strong>.</li>
-<li><em>Earnings volatility in Latin America: evidence from administrative data.</em> (with Verónica Amarante, Paula Carrasco, Markus Nabernegg and Xavier Jara Tamayo). <strong>In progress</strong>.</li>
-<li><em>The cumulative effects of macroeconomic performance on political and economic attitudes: evidence from Latin America</em> (with Noam Titelman). <strong>In progress</strong>.</li>
+<li>Why does economic pessimism remain so high in Latin America? Revisiting the question during the 2001-2023 period. <em>(with Noam Titelman)</em>. <strong>R&amp;R</strong>.</li>
+<li>More Than a Bad Job: Precarious Work as a Multidimensional Capability Failure. <strong>Submitted</strong>.</li>
+<li>Automation without a Right Turn? Technological Anxiety, Economic Insecurity and Democratic Attitudes in Latin America <em>(with Noam Titelman)</em>. <strong>Submitted</strong>.</li>
+<li>Debt, Age, and the Conversion Gap in Subjective Economic Hardship: Evidence from Chile <em>(with Gonzalo Torres)</em>. <strong>Submitted</strong>.</li>
+<li>How does vulnerability to poverty affect subjective well-being? A secure middle-class perspective for Chile <em>(with Gonzalo Torres)</em>. <strong>In progress</strong>.</li>
+<li>Multidimensional Inequality in Latin America <em>(with the CEPAL team)</em>. <strong>In progress</strong>.</li>
+<li>Economic Insecurity, Not Inequality? Explaining Social Protest Participation in Chile <em>(with Benjamín Lang)</em>. <strong>In progress</strong>.</li>
+<li>Measuring and Valuing Subjective Well-Being: Applying the WELLBY Framework to Chile <em>(with Camila Herrera)</em>. <strong>In progress</strong>.</li>
+<li>Earnings volatility in Latin America: evidence from administrative data. <em>(with Verónica Amarante, Paula Carrasco, Markus Nabernegg and Xavier Jara Tamayo)</em>. <strong>In progress</strong>.</li>
+<li>The cumulative effects of macroeconomic performance on political and economic attitudes: evidence from Latin America <em>(with Noam Titelman)</em>. <strong>In progress</strong>.</li>
 </ol>
 </div>
 <div class="research-panel" data-panel="books" role="tabpanel" hidden>
