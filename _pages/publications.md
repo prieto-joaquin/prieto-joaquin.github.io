@@ -89,8 +89,12 @@ li:not(.pub-open) .pa-panel{display:none;}
 </ul>
 </div>
 <div class="research-panel" data-panel="projects" role="tabpanel" hidden>
+<h3>Chile grants</h3>
 <ul>
 <li>2025-2028  Postdoctoral Researcher, <strong>Economic (In)Security from the Perspective of Social Protection: A Missing (but Necessary) Dimension for a Comprehensive Approach to Human Development</strong>. Financed by <em>Fondecyt</em>.</li>
+</ul>
+<h3>International grants</h3>
+<ul>
 <li>2020-2022  Postdoctoral Researcher, <strong>Measuring the Quality of Employment (QoE) in Middle-Income Countries</strong>. Financed by the <em>British Academy</em>.</li>
 <li>2016-2017  Researcher, <strong>Changes in the geography of opportunity in the City of Santiago, Chile: towards a more inclusive city?</strong>.  Financed by <em>Lincoln Institute of Land Policy LILP</em>.</li>
 <li>2014-2015  Principal investigator PI, <strong>Daily Mobility of Families at Risk of Falling into Poverty in Santiago, Chile: Anchored by Housing Location and Forced to Move around the City</strong>.  Financed by <em>LILP</em>.</li>
