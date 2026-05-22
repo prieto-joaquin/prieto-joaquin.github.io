@@ -30,7 +30,7 @@ author_profile: true
     <input id="cf-name" class="cf-narrow" type="text" name="name" required>
   </div>
   <div class="cf-row">
-    <label for="cf-email">Email</label>
+    <label for="cf-email">Your email</label>
     <input id="cf-email" class="cf-narrow" type="email" name="email" required>
   </div>
   <div class="cf-row">
