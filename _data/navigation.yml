@@ -6,6 +6,9 @@ main:
   - title: "Presentations"
     url: /presentations/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Policy"
     url: /policy/
 
