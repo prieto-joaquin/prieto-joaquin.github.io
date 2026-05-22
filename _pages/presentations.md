@@ -14,11 +14,11 @@ author_profile: true
 .tabpane li{margin-bottom:.6em;}
 </style>
 <div class="tabnav" role="tablist" aria-label="Presentation sections">
-<button type="button" role="tab" data-tab="talks" aria-selected="true">Talks</button>
+<button type="button" role="tab" data-tab="conferences" aria-selected="true">Conferences</button>
+<button type="button" role="tab" data-tab="talks" aria-selected="false">Talks</button>
 <button type="button" role="tab" data-tab="workshops" aria-selected="false">Workshops</button>
-<button type="button" role="tab" data-tab="conferences" aria-selected="false">Conferences</button>
 </div>
-<div class="tabpane" data-panel="talks" role="tabpanel">
+<div class="tabpane" data-panel="talks" role="tabpanel" hidden>
 <ol>
 <li>Vulnerability Metrics. <strong>Mesa Temática de Trabajo del Futuro, Comisión Desafíos del Futuro del Senado de Chile</strong>, Santiago, 5 August 2024.</li>
 <li>The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America. <strong>PEEI Seminar of the Faculty of Government of the Universidad de Chile</strong>, Santiago, 9 July 2024.</li>
@@ -40,7 +40,7 @@ author_profile: true
 <li>Continuity and sustainability of the Longitudinal Social Protection (LSPS): A rotating panel design proposal for the LSPS, <strong>IDB: Methodological Analysis Workshop</strong>, Santiago, Chile, 24 March, 2017.</li>
 </ol>
 </div>
-<div class="tabpane" data-panel="conferences" role="tabpanel" hidden>
+<div class="tabpane" data-panel="conferences" role="tabpanel">
 <ol>
 <li>Why does subjective socio-economic insecurity remain so high in Latin America? Revisiting the question during the 2000-2024 period. <strong>SASE 2025, Montreal</strong>, 10 July 2025; <strong>MPSA 2025, Chicago</strong>, 4 April 2025.</li>
 <li>Understanding income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile. <strong>III International Conference: Labour Transitions and Income Dynamics in Latin America, Buenos Aires</strong>, 6 December 2024.</li>
@@ -75,7 +75,7 @@ author_profile: true
   var panels=[].slice.call(document.querySelectorAll('.tabpane'));
   var names=tabs.map(function(t){return t.getAttribute('data-tab');});
   function activate(name){
-    if(names.indexOf(name)===-1){name='talks';}
+    if(names.indexOf(name)===-1){name='conferences';}
     tabs.forEach(function(t){t.setAttribute('aria-selected', t.getAttribute('data-tab')===name?'true':'false');});
     panels.forEach(function(p){p.hidden=(p.getAttribute('data-panel')!==name);});
   }
