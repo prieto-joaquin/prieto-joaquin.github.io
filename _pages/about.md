@@ -19,36 +19,13 @@ I am a member of the WAPLAC Network (Welfare and Policy in Latin America and the
 
 __Latest news__
 
-_Publications_
-
-Prieto, J. & Hoffmeister, L. (2025). __Towards better measurement of financial risk protection in health expenditure: the case of Chile__. _Value in Health Regional Issues_ Early view: <a href="https://www.sciencedirect.com/science/article/pii/S2212109925000111" target="_blank"> https://doi.org/10.1016/j.vhri.2025.101086</a>
-
-Carranza, R., Prieto, J., &  Sehnbruch, K. (2025). __Job loss and earnings inequality: Distributional effects from re-employment in Chile__. _Economic Analysis and Policy_. Early view: <a href="https://www.sciencedirect.com/science/article/pii/S0313592625000530" target="_blank"> https://doi.org/10.1016/j.eap.2025.02.021</a>
-
-Prieto, J. (2024). __Degrees of vulnerability to poverty: a low-income dynamics approach for Chile__. _Journal of Economic Inequality_, 22, 1069–1107. <a href="https://link.springer.com/article/10.1007/s10888-023-09611-8" target="_blank"> https://doi.org/10.1007/s10888-023-09611-8</a>
-
-Prieto, J., Sehnbruch, K., & Vidal, D. (2024). __A dynamic counting approach to measure multidimensional deprivations in jobs__. _Applied Economics Letters_, 31(10), 907–912.  <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2022.2156460" target="_blank"> https://doi.org/10.1080/13504851.2022.2156460</a>
-
-_Presentations_
-
-Conferences
-1.  Why does subjective socio-economic insecurity remain so high in Latin America? Revisiting the question during the 2000-2024 period. __SASE 2025, Montreal__, 10 July 2025; __MPSA 2025, Chicago__, 4 April 2025.
-2.  Understanding income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile. __III International Conference: Labour Transitions and Income Dynamics in Latin America__, Buenos Aires, 6 December 2024.
-3.  Degrees of vulnerability to poverty: a low-income dynamics approach for Chile. __2do Congreso Latinoamericano de Ciencias Sociales y Gobierno (La Triada)__, Santiago, 14 November 2024.
-4.  The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America. __38th IARIW General Conference__, London, 27 August 2024; __MPSA 2024__, Chicago, 5 April 2024; __SASE 2024, Limerick__, 20 June 2024.
-5.  Cumulative precariousness: Re-examining the capability approach to work. __SASE 2024, Limerick__, 20 June 2024.
-6.  How does vulnerability to poverty affect subjective well-being in Chile?: A secure middle-class perspective. __XII Congreso Chileno de Sociología__, 4 May 2024.
-
-
-Workshops
-
-1.  Income buffers after a formal employment loss: The role of the informal employment and the unemployment insurance in Chile”. __1st WAPLAC workshop__, San José Costa Rica, 11 May 2024.
-2.  A Step-by-Step Approach to: Measuring Economic Insecurity. __CLACS, University of Illinois__, 10 April 2024.
-
-Talks
-
-1.  Vulnerability Metrics. __Mesa Temática de Trabajo del Futuro, Comisión Desafíos del Futuro del Senado de Chile__, Santiago, 5 August 2024.
-2.  The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for Democracy in Latin America. __PEEI Seminar of the Faculty of Government of the Universidad de Chile__, Santiago, 9 July 2024.
-3.  Job loss and earnings inequality. __Mesa Temática de Trabajo del Futuro, Comisión Desafíos del Futuro del Senado de Chile__, Santiago, 2 July 2024.
-4.  Vulnerability Metrics: Redefining Welfare in LAC. __CLACS, University of Illinois__, 10 April 2024.
-
+<style>
+.ig-feed{max-width:640px;margin:.6em 0 0;}
+.ig-follow{margin:.7em 0 0;font-size:.95rem;}
+.ig-follow a{color:#52adc8;text-decoration:none;}
+.ig-follow a:hover{text-decoration:underline;}
+</style>
+<div class="ig-feed" markdown="0">
+<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/76ad04244abd5387ac61a61c9f30cc5d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+<p class="ig-follow"><a href="https://instagram.com/joaquin.prieto.uchile" target="_blank" rel="noopener">Follow @joaquin.prieto.uchile on Instagram &rarr;</a></p>
+</div>
