@@ -1,9 +1,19 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /publications/
+  - /current-research/
 ---
+
+__Work in Progress__
+
+1.  (with Noam Titelman). __The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for democracy in Latin America__. _Latin American Policy_. (submitted on 4 November 2024).
+2.  _Subjective Economic Insecurity: The Interplay of Age and Income Distribution in Chile_ (with Gonzalo Torres)
+3.  How does vulnerability to poverty affect subjective well-being? A secure middle-class perspective for Chile (with Gonzalo Torres)
+
 
 __Peer reviewed journal articles (WoS & JCR / Scopus & SJR)__
 
