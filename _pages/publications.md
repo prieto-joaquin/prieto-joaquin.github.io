@@ -32,9 +32,9 @@ li:not(.pub-open) .pa-panel{display:none;}
 <div class="research-tabs" role="tablist" aria-label="Research sections">
 <button type="button" role="tab" data-tab="published" aria-selected="true">Published Papers</button>
 <button type="button" role="tab" data-tab="wip" aria-selected="false">Work in Progress</button>
-<button type="button" role="tab" data-tab="books" aria-selected="false">Book Chapters</button>
+<button type="button" role="tab" data-tab="books" aria-selected="false">Books</button>
+<button type="button" role="tab" data-tab="workingpapers" aria-selected="false">Working Papers</button>
 <button type="button" role="tab" data-tab="projects" aria-selected="false">Projects</button>
-<button type="button" role="tab" data-tab="appointments" aria-selected="false">Appointments</button>
 </div>
 <div class="research-panel" data-panel="published" role="tabpanel">
 <p><strong>Peer reviewed journal articles (WoS &amp; JCR / Scopus &amp; SJR)</strong></p>
@@ -80,6 +80,14 @@ li:not(.pub-open) .pa-panel{display:none;}
 <li>Rivadeneira, M., Brain I., &amp; Prieto, J. (co-ed.) (2004) <strong>Stories of Slums</strong>. <em>Centre of Social Research</em>. TECHO Foundation. El Mercurio—Aguilar Editorial.</li>
 </ul>
 </div>
+<div class="research-panel" data-panel="workingpapers" role="tabpanel" hidden>
+<ul>
+<li>Brain J. &amp; Prieto J. (2018). <strong>Understanding Changes in the Geography of Opportunity</strong>. Working paper WP18IB2. Lincoln Institute of Land Policy LILP. Cambridge, MA. <a href="https://www.lincolninst.edu/publications/working-papers/understanding-changes-in-geography-opportunity" target="_blank"> Download</a></li>
+<li>Prieto J., &amp; Brain J. (2018). <strong>Daily mobility and changes in the geography of opportunities in the city of Santiago: What has happened to families living bad located?</strong> Working paper WP18JP1SP. Lincoln Institute of Land Policy LILP. Cambridge, MA. (In Spanish).<a href="https://www.lincolninst.edu/publications/working-papers/movilidad-cotidiana-cambios-en-la-geografia-oportunidades-en-la-ciudad" target="_blank"> Download</a></li>
+<li>Prieto J. (2015). <strong>Location preferences in low-income families: Residential mobility and housing market in the city of Santiago de Chile, 2002 - 2011</strong>. Working paper WP15JP1SP. Lincoln Institute of Land Policy LILP. Cambridge, MA. (In Spanish). <a href="https://www.lincolninst.edu/publications/working-papers/preferencias-localizacion-en-las-familias-bajos-ingresos" target="_blank"> Download</a></li>
+<li>Brain, I., Prieto, J., Sabatini, F. &amp; Celhay, P. (2009). <strong>Living in Slums: Residential Location Preferences in Santiago, Chile.</strong> Landlines Journal. Vol. 21, Nº4. October. <em>Lincoln Institute of Land Policy</em>. Cambridge, MA. <a href="https://www.lincolninst.edu/publications/articles/vivir-en-campamentos" target="_blank"> Spanish version Download </a> -  <a href="https://www.lincolninst.edu/es/publications/articles/living-slums" target="_blank">  English version Download</a></li>
+</ul>
+</div>
 <div class="research-panel" data-panel="projects" role="tabpanel" hidden>
 <ul>
 <li>2025-2028  Postdoctoral Researcher, <strong>Economic (In)Security from the Perspective of Social Protection: A Missing (but Necessary) Dimension for a Comprehensive Approach to Human Development</strong>. Financed by <em>Fondecyt</em>.</li>
@@ -89,15 +97,6 @@ li:not(.pub-open) .pa-panel{display:none;}
 <li>2013-2014  Researcher, <strong>Location Preference of Low Income Households: Housing Mobility and Housing Market in the city of Santiago, Chile</strong>. Financed by LILP.</li>
 <li>2012-2013  PI, <strong>Effects of localization in poverty dynamics in Santiago city, Chile</strong>. Financed by <em>LILP</em>.</li>
 <li>2008-2010  PI, <strong>Living in Slums: A way to obtain the social housing or a location strategy to face vulnerability?</strong>. Financed by <em>LILP</em>.</li>
-</ul>
-</div>
-<div class="research-panel" data-panel="appointments" role="tabpanel" hidden>
-<ul>
-<li>2022-2028  Visiting Fellow, International Inequalities Institute at LSE. London.</li>
-<li>2020-2022  Research officer, International Inequalities Institute at LSE. London.</li>
-<li>2022 March Visiting Fellow, WEIPO at University of Alcalá de Henares. Madrid.</li>
-<li>2014-2015  Visting scholar, Boston College. Boston.</li>
-<li>2013-2014  Visting fellow, Lincoln Institute of Land Policy LILP. Cambridge, MA.</li>
 </ul>
 </div>
 <script>
