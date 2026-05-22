@@ -14,7 +14,7 @@ author_profile: true
 <div class="exp">
 <h3>Consultancy</h3>
 <ul>
-<li>2024-2025  Consultant, <strong>United Nations Economic Commission for Latin America and the Caribbean ECLAC</strong>. Santiago. <a class="out-act" href="https://www.cepal.org/en" target="_blank" rel="noopener">Link</a></li>
+<li>2024-2026  Consultant, <strong>United Nations Economic Commission for Latin America and the Caribbean ECLAC</strong>. Santiago. <a class="out-act" href="https://www.cepal.org/en" target="_blank" rel="noopener">Link</a></li>
 <li>2022-2023  Consultant, <strong>International Labour Organization ILO</strong>. Lima. <a class="out-act" href="https://www.ilo.org" target="_blank" rel="noopener">Link</a></li>
 <li>2017-2018  Consultant, <strong>Organisation for Economic Co-Operation and Development OECD</strong>. Paris. <a class="out-act" href="https://www.oecd.org" target="_blank" rel="noopener">Link</a></li>
 <li>2015-2016  Consultant, <strong>Inter-American Development Bank I-ADB</strong>. Washington DC. <a class="out-act" href="https://www.iadb.org" target="_blank" rel="noopener">Link</a></li>
@@ -24,7 +24,7 @@ author_profile: true
 <ul>
 <li>2022-2028  Visiting Fellow, <strong>International Inequalities Institute at LSE</strong>. London. <a class="out-act" href="https://www.lse.ac.uk/International-Inequalities" target="_blank" rel="noopener">Link</a></li>
 <li>2020-2022  Research officer, <strong>International Inequalities Institute at LSE</strong>. London. <a class="out-act" href="https://www.lse.ac.uk/International-Inequalities" target="_blank" rel="noopener">Link</a></li>
-<li>2022 March Visiting Fellow, <strong>WEIPO at University of Alcalá de Henares</strong>. Madrid. <a class="out-act" href="https://sites.google.com/view/weipo-uah/team" target="_blank" rel="noopener">Link</a></li>
+<li>2022 March Visiting Fellow, <strong>WEIPO at University of Alcalá de Henares</strong>. Madrid. <a class="out-act" href="https://sites.google.com/view/weipo-uah/home" target="_blank" rel="noopener">Link</a></li>
 <li>2014-2015  Visiting scholar, <strong>Boston College</strong>. Boston. <a class="out-act" href="https://www.bc.edu" target="_blank" rel="noopener">Link</a></li>
 <li>2013-2014  Visiting fellow, <strong>Lincoln Institute of Land Policy LILP</strong>. Cambridge, MA. <a class="out-act" href="https://www.lincolninst.edu" target="_blank" rel="noopener">Link</a></li>
 </ul>
@@ -32,7 +32,7 @@ author_profile: true
 <ul>
 <li>2012-2014  Advisor, Executive Director of <strong>Social Observatory Centre</strong> at <strong>Universidad Alberto Hurtado</strong>, Chile. <a class="out-act" href="https://www.uahurtado.cl/" target="_blank" rel="noopener">Link</a></li>
 <li>2005-2012  Founder and Director, <strong>Social Observatory Centre</strong> at <strong>Universidad Alberto Hurtado</strong>, Chile. <a class="out-act" href="https://www.uahurtado.cl/" target="_blank" rel="noopener">Link</a></li>
-<li>2011-2012  Member of the Board of the <strong>Social Investment Fund (FIS Ameris)</strong>. <a class="out-act" href="https://fisameris.cl/" target="_blank" rel="noopener">Link</a></li>
+<li>2011-2012  Member of the Board of the <strong>Social Investment Fund (FIS Ameris)</strong>. <a class="out-act" href="https://www.ameris.cl/asset-management/fis-ameris/" target="_blank" rel="noopener">Link</a></li>
 <li>2004-2012  Advisor, Executive Director of <strong>National Chilean Television (TVN)</strong>. <a class="out-act" href="https://www.tvn.cl/" target="_blank" rel="noopener">Link</a></li>
 <li>2002-2003  Vice-Director, <strong>TECHO Foundation</strong>. <a class="out-act" href="https://techo.org/" target="_blank" rel="noopener">Link</a></li>
 </ul>
