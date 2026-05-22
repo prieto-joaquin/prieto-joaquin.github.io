@@ -11,7 +11,7 @@ redirect_from:
 
 <style>
 .research-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 1.5em;padding:0;}
-.research-tabs button{font:inherit;font-size:14px;cursor:pointer;background:#fff;border:1px solid #ddd;border-radius:6px;padding:5px 12px;color:#494e52;line-height:1.2;box-shadow:none;}
+.research-tabs button{font:inherit;font-size:15px;cursor:pointer;background:#fff;border:1px solid #ddd;border-radius:6px;padding:5px 12px;color:#494e52;line-height:1.2;box-shadow:none;}
 .research-tabs button:hover{background:#f2f3f3;}
 .research-tabs button[aria-selected="true"]{border-color:#52adc8;background:#52adc8;color:#fff;}
 .research-panel[hidden]{display:none;}

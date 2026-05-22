@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 .tabnav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 1.5em;padding:0;}
-.tabnav button{font:inherit;font-size:14px;cursor:pointer;background:#fff;border:1px solid #ddd;border-radius:6px;padding:5px 12px;color:#494e52;line-height:1.2;box-shadow:none;}
+.tabnav button{font:inherit;font-size:15px;cursor:pointer;background:#fff;border:1px solid #ddd;border-radius:6px;padding:5px 12px;color:#494e52;line-height:1.2;box-shadow:none;}
 .tabnav button:hover{background:#f2f3f3;}
 .tabnav button[aria-selected="true"]{border-color:#52adc8;background:#52adc8;color:#fff;}
 .tabpane[hidden]{display:none;}
