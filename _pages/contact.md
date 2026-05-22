@@ -20,7 +20,7 @@ author_profile: true
 
 <p class="cf-intro">If you would like to get in touch, feel free to write to me. I will do my best to reply as soon as possible.</p>
 
-<form class="cf-form" action="https://formsubmit.co/joaquin.prieto@gobierno.uchile.cl" method="POST">
+<form class="cf-form" action="https://formsubmit.co/9a8ca6b4732a3e51e59d8059592f7e50" method="POST">
   <input type="hidden" name="_subject" value="Nuevo mensaje desde tu sitio web">
   <input type="hidden" name="_captcha" value="false">
   <input type="hidden" name="_template" value="table">
