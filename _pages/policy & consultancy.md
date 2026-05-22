@@ -17,11 +17,23 @@ redirect_from:
 .tabpane h3{margin:.25em 0 .5em;font-size:1.15em;}
 </style>
 <div class="tabnav" role="tablist" aria-label="Policy sections">
-<button type="button" role="tab" data-tab="projects" aria-selected="true">Projects</button>
-<button type="button" role="tab" data-tab="documents" aria-selected="false">Documents</button>
+<button type="button" role="tab" data-tab="documents" aria-selected="true">Documents</button>
+<button type="button" role="tab" data-tab="projects" aria-selected="false">Projects</button>
+<button type="button" role="tab" data-tab="technical" aria-selected="false">Technical Reports</button>
 <button type="button" role="tab" data-tab="experience" aria-selected="false">Experience</button>
 </div>
-<div class="tabpane" data-panel="projects" role="tabpanel">
+<div class="tabpane" data-panel="documents" role="tabpanel">
+<h3>Policy Brief</h3>
+<ul>
+<li>Maurizio, R., & Prieto, J. (2022). <strong>Poverty and the phenomenon of the working poor</strong>. En Labor Review 2022. Lima: OIT: Oficina Regional para LAC. (In Spanish). <a href="https://mexico.un.org/sites/default/files/2023-02/panorama_laboral_Am%C3%A9ricaLatinayelCaribe_2022_OIT.pdf" target="_blank"> Download </a></li>
+<li>Brain J. & Prieto J. (2018). <strong>Understanding Changes in the Geography of Opportunity</strong>. Working paper WP18IB2. Lincoln Institute of Land Policy LILP. Cambridge, MA. <a href="https://www.lincolninst.edu/publications/working-papers/understanding-changes-in-geography-opportunity" target="_blank"> Download</a></li>
+<li>Prieto J., & Brain J. (2018). <strong>Daily mobility and changes in the geography of opportunities in the city of Santiago: What has happened to families living bad located?</strong> Working paper WP18JP1SP. Lincoln Institute of Land Policy LILP. Cambridge, MA. (In Spanish).<a href="https://www.lincolninst.edu/publications/working-papers/movilidad-cotidiana-cambios-en-la-geografia-oportunidades-en-la-ciudad" target="_blank"> Download</a></li>
+<li>Maldonado, L., Prieto, J. and Lay, S. (2016). <strong>The dynamics of poverty in Chile during the period 2006-2009</strong>. Agenda theme series Nº 87, <em>Centro UC de Políticas Públicas</em>. (In Spanish). <a href="https://politicaspublicas.uc.cl/wp-content//uploads/2016/08/N%C2%B0-87-Din%C3%A1micas-de-la-pobreza-en-Chile.pdf" target="_blank"> Download</a></li>
+<li>Prieto J. (2015). <strong>Location preferences in low-income families: Residential mobility and housing market in the city of Santiago de Chile, 2002 - 2011</strong>. Working paper WP15JP1SP. Lincoln Institute of Land Policy LILP. Cambridge, MA. (In Spanish). <a href="https://www.lincolninst.edu/publications/working-papers/preferencias-localizacion-en-las-familias-bajos-ingresos" target="_blank"> Download</a></li>
+<li>Brain, I., Prieto, J., Sabatini, F. & Celhay, P. (2009). <strong>Living in Slums: Residential Location Preferences in Santiago, Chile.</strong> Landlines Journal. Vol. 21, Nº4. October. <em>Lincoln Institute of Land Policy</em>. Cambridge, MA. <a href="https://www.lincolninst.edu/publications/articles/vivir-en-campamentos" target="_blank"> Spanish version Download </a> -  <a href="https://www.lincolninst.edu/es/publications/articles/living-slums" target="_blank">  English version Download</a></li>
+</ul>
+</div>
+<div class="tabpane" data-panel="projects" role="tabpanel" hidden>
 <ul>
 <li>2012  PI, <strong>Origin-Destination Survey</strong> (18,000 households). Financed by the <em>Transport Secretary from Transport Ministry</em>.</li>
 <li>2012  PI, <strong>Cadastre of Slums Households</strong> (30,000 households). Financed by the <em>Ministry of Housing and Urban Development</em>.</li>
@@ -37,17 +49,7 @@ redirect_from:
 <li>2009  PI, <strong>Health National Survey</strong> (5,058 individuals). Financed by the <em>Health Ministry</em>.</li>
 </ul>
 </div>
-<div class="tabpane" data-panel="documents" role="tabpanel" hidden>
-<h3>Policy Reports</h3>
-<ul>
-<li>Maurizio, R., & Prieto, J. (2022). <strong>Poverty and the phenomenon of the working poor</strong>. En Labor Review 2022. Lima: OIT: Oficina Regional para LAC. (In Spanish). <a href="https://mexico.un.org/sites/default/files/2023-02/panorama_laboral_Am%C3%A9ricaLatinayelCaribe_2022_OIT.pdf" target="_blank"> Download </a></li>
-<li>Brain J. & Prieto J. (2018). <strong>Understanding Changes in the Geography of Opportunity</strong>. Working paper WP18IB2. Lincoln Institute of Land Policy LILP. Cambridge, MA. <a href="https://www.lincolninst.edu/publications/working-papers/understanding-changes-in-geography-opportunity" target="_blank"> Download</a></li>
-<li>Prieto J., & Brain J. (2018). <strong>Daily mobility and changes in the geography of opportunities in the city of Santiago: What has happened to families living bad located?</strong> Working paper WP18JP1SP. Lincoln Institute of Land Policy LILP. Cambridge, MA. (In Spanish).<a href="https://www.lincolninst.edu/publications/working-papers/movilidad-cotidiana-cambios-en-la-geografia-oportunidades-en-la-ciudad" target="_blank"> Download</a></li>
-<li>Maldonado, L., Prieto, J. and Lay, S. (2016). <strong>The dynamics of poverty in Chile during the period 2006-2009</strong>. Agenda theme series Nº 87, <em>Centro UC de Políticas Públicas</em>. (In Spanish). <a href="https://politicaspublicas.uc.cl/wp-content//uploads/2016/08/N%C2%B0-87-Din%C3%A1micas-de-la-pobreza-en-Chile.pdf" target="_blank"> Download</a></li>
-<li>Prieto J. (2015). <strong>Location preferences in low-income families: Residential mobility and housing market in the city of Santiago de Chile, 2002 - 2011</strong>. Working paper WP15JP1SP. Lincoln Institute of Land Policy LILP. Cambridge, MA. (In Spanish). <a href="https://www.lincolninst.edu/publications/working-papers/preferencias-localizacion-en-las-familias-bajos-ingresos" target="_blank"> Download</a></li>
-<li>Brain, I., Prieto, J., Sabatini, F. & Celhay, P. (2009). <strong>Living in Slums: Residential Location Preferences in Santiago, Chile.</strong> Landlines Journal. Vol. 21, Nº4. October. <em>Lincoln Institute of Land Policy</em>. Cambridge, MA. <a href="https://www.lincolninst.edu/publications/articles/vivir-en-campamentos" target="_blank"> Spanish version Download </a> -  <a href="https://www.lincolninst.edu/es/publications/articles/living-slums" target="_blank">  English version Download</a></li>
-</ul>
-<h3>Technical Reports</h3>
+<div class="tabpane" data-panel="technical" role="tabpanel" hidden>
 <ul>
 <li>Prieto, J (2015), <strong>A Practical Handbook to Using Data in the Longitudinal Social Protection Survey (LSPS)</strong>, <em>Social Security Observatory of Latin America and the Caribbean, Inter-American Development Bank</em>. <a href="/files/2015-Prieto-IDB.pdf" target="_blank"> Download </a></li>
 <li>Prieto, J., Madrigal, L., Gallegos, F. y Bravo, E. (2015), <strong>Methodological Recommendations for the Longitudinal Social Protection Survey (LSPS)</strong>, <em>Social Security Observatory of Latin America and the Caribbean, Inter-American Development Bank</em>. <a href="/files/2015-Prieto_et_al-IDB.pdf" target="_blank"> Download </a></li>
@@ -70,7 +72,7 @@ redirect_from:
   var panels=[].slice.call(document.querySelectorAll('.tabpane'));
   var names=tabs.map(function(t){return t.getAttribute('data-tab');});
   function activate(name){
-    if(names.indexOf(name)===-1){name='projects';}
+    if(names.indexOf(name)===-1){name='documents';}
     tabs.forEach(function(t){t.setAttribute('aria-selected', t.getAttribute('data-tab')===name?'true':'false');});
     panels.forEach(function(p){p.hidden=(p.getAttribute('data-panel')!==name);});
   }
