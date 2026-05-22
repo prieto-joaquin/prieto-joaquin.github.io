@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Policy & Consultancy"
+title: "Policy & Public Engagement"
 permalink: /policy-consultancy/
 author_profile: true
 ---
@@ -21,6 +21,21 @@ __Research experience__
 2022 March Visiting Fellow, WEIPO at University of Alcalá de Henares. Madrid. <br>
 2014-2015 &nbsp;Visting scholar, Boston College. Boston. <br>
 2013-2014 &nbsp;Visting fellow, Lincoln Institute of Land Policy LILP. Cambridge, MA. <br>
+
+__Policy projects__
+
+2012 &nbsp;PI, __Origin-Destination Survey__ (18,000 households). Financed by the _Transport Secretary from Transport Ministry_. <br>
+2012 &nbsp;PI, __Cadastre of Slums Households__ (30,000 households). Financed by the _Ministry of Housing and Urban Development_. <br>
+2011 &nbsp;PI, __Households Financial Panel Survey__ (4,000 households). Financed by the _Chilean Central Bank_.  <br>
+2011 &nbsp;PI, __Homeless People Cadastre__ (12,500 individuals). Financed by the _Ministry of Social Development_.  <br>
+2010 &nbsp;PI, __National Narcotics Research__ (17,000 individuals). Financed by the _National Council for the Control of Narcotics_ (CONACE).  <br>
+2010 &nbsp;PI, __National Socioeconomic Characterization Panel Survey (CASEN) Post Earthquake__ (22,000 households). Financed by the _Ministry of Social Development_.  <br>
+2009 &nbsp;PI, __National Socioeconomic Characterization Survey (CASEN)__ (74,300 households). Financed by the _Ministry of Social Development_.  <br>
+2009 &nbsp;PI, __National survey of Employment, Health and Quality of Life of Chilean Workers__ (9,720 workers). Financed by the _Health Ministry_.  <br>
+2009 &nbsp;PI, __Panel CASEN Survey 2006-2007-2008-2009__ (7,000 households / 23,000 individuals). Financed by the _Ministry of Social Development_.  <br>
+2009 &nbsp;PI, __Panel Survey of Microenterprises__ (3,000 households). Financed by the _Ministry of Economy_.  <br>
+2009 &nbsp;PI, __Housing Panel Survey__ (first wave) - (5,100 housing). Financed by the _Ministry of Housing and Urban Development_.  <br>
+2009 &nbsp;PI, __Health National Survey__ (5,058 individuals). Financed by the _Health Ministry_.  <br>
 
 __Policy Reports__
 

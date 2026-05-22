@@ -6,11 +6,8 @@ main:
   - title: "Presentations"
     url: /presentations/
 
-  - title: "Policy & Consultancy"
+  - title: "Policy & Public Engagement"
     url: /policy-consultancy/
-
-  - title: "Projects"
-    url: /projects/
 
   - title: "Others"
     url: /others/

@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /publications/
   - /current-research/
+  - /projects/
 ---
 
 <style>
@@ -32,6 +33,7 @@ li:not(.pub-open) .pa-panel{display:none;}
 <button type="button" role="tab" data-tab="published" aria-selected="true">Published Papers</button>
 <button type="button" role="tab" data-tab="wip" aria-selected="false">Work in Progress</button>
 <button type="button" role="tab" data-tab="books" aria-selected="false">Book Chapters</button>
+<button type="button" role="tab" data-tab="projects" aria-selected="false">Projects</button>
 </div>
 <div class="research-panel" data-panel="published" role="tabpanel">
 <p><strong>Peer reviewed journal articles (WoS &amp; JCR / Scopus &amp; SJR)</strong></p>
@@ -74,6 +76,17 @@ li:not(.pub-open) .pa-panel{display:none;}
 <li>Prieto, J. (ed.) (2012) <strong>Persona y Sociedad Review</strong> (Special edition with articles written using data from 6 surveys developed by <em>Observatorio Social, Universidad Alberto Hurtado</em>, vol. XXI Nº1.</li>
 <li>Prieto, J., &amp; Karina Soto (co-ed.) (2012) <strong>In Chile we all count: second cadastre of homeless people</strong>. <em>Observatorio Social Collection</em>. Editorial Universidad Alberto Hurtado.</li>
 <li>Rivadeneira, M., Brain I., &amp; Prieto, J. (co-ed.) (2004) <strong>Stories of Slums</strong>. <em>Centre of Social Research</em>. TECHO Foundation. El Mercurio—Aguilar Editorial.</li>
+</ul>
+</div>
+<div class="research-panel" data-panel="projects" role="tabpanel" hidden>
+<ul>
+<li>2025-2028  Postdoctoral Researcher, <strong>Economic (In)Security from the Perspective of Social Protection: A Missing (but Necessary) Dimension for a Comprehensive Approach to Human Development</strong>. Financed by <em>Fondecyt</em>.</li>
+<li>2020-2022  Postdoctoral Researcher, <strong>Measuring the Quality of Employment (QoE) in Middle-Income Countries</strong>. Financed by the <em>British Academy</em>.</li>
+<li>2016-2017  Researcher, <strong>Changes in the geography of opportunity in the City of Santiago, Chile: towards a more inclusive city?</strong>.  Financed by <em>Lincoln Institute of Land Policy LILP</em>.</li>
+<li>2014-2015  Principal investigator PI, <strong>Daily Mobility of Families at Risk of Falling into Poverty in Santiago, Chile: Anchored by Housing Location and Forced to Move around the City</strong>.  Financed by <em>LILP</em>.</li>
+<li>2013-2014  Researcher, <strong>Location Preference of Low Income Households: Housing Mobility and Housing Market in the city of Santiago, Chile</strong>. Financed by LILP.</li>
+<li>2012-2013  PI, <strong>Effects of localization in poverty dynamics in Santiago city, Chile</strong>. Financed by <em>LILP</em>.</li>
+<li>2008-2010  PI, <strong>Living in Slums: A way to obtain the social housing or a location strategy to face vulnerability?</strong>. Financed by <em>LILP</em>.</li>
 </ul>
 </div>
 <script>
