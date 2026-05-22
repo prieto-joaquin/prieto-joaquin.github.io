@@ -13,7 +13,7 @@ redirect_from:
 .research-tabs{display:flex;flex-wrap:wrap;gap:.5em;margin:0 0 1.5em;padding:0;}
 .research-tabs button{font:inherit;cursor:pointer;background:#fff;border:1px solid #ddd;border-radius:6px;padding:.5em .95em;color:#494e52;line-height:1.2;box-shadow:none;}
 .research-tabs button:hover{background:#f2f3f3;}
-.research-tabs button[aria-selected="true"]{border-color:#52adc8;background:#52adc8;color:#fff;font-weight:bold;}
+.research-tabs button[aria-selected="true"]{border-color:#52adc8;background:#52adc8;color:#fff;}
 .research-panel[hidden]{display:none;}
 .research-panel h3{margin:.25em 0 .5em;font-size:1.15em;}
 .research-panel li{margin-bottom:.6em;}

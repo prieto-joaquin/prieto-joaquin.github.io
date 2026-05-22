@@ -9,7 +9,7 @@ author_profile: true
 .tabnav{display:flex;flex-wrap:wrap;gap:.5em;margin:0 0 1.5em;padding:0;}
 .tabnav button{font:inherit;cursor:pointer;background:#fff;border:1px solid #ddd;border-radius:6px;padding:.5em .95em;color:#494e52;line-height:1.2;box-shadow:none;}
 .tabnav button:hover{background:#f2f3f3;}
-.tabnav button[aria-selected="true"]{border-color:#52adc8;background:#52adc8;color:#fff;font-weight:bold;}
+.tabnav button[aria-selected="true"]{border-color:#52adc8;background:#52adc8;color:#fff;}
 .tabpane[hidden]{display:none;}
 .tabpane li{margin-bottom:.6em;}
 .yr{display:flex;align-items:center;gap:12px;margin:1.1em 0 .5em;}
