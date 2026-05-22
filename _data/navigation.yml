@@ -15,11 +15,11 @@ main:
   - title: "Outreach"
     url: /outreach/
 
-  - title: "Work Experience"
-    url: /experience/
-
   - title: "Contact"
     url: /contact/
+
+  - title: "Work Experience"
+    url: /experience/
 
 # - title: "Guide"
 #   url: /markdown/
