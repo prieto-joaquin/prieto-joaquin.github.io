@@ -23,6 +23,7 @@ redirect_from:
 </div>
 <div class="tabpane" data-panel="policybrief" role="tabpanel">
 <ul>
+<li>Mesa del Trabajo del Futuro. (2025). <strong>Chile tiene futuro desde sus territorios: Oportunidades frente a los cambios en el mundo laboral</strong>. Policy Brief, Proyecta Chile 2050. (In Spanish). <a href="https://cfstorage.sfo3.cdn.digitaloceanspaces.com/pch2050/docs/trabajo-del-futuro.pdf" target="_blank"> Download </a></li>
 <li>Prieto, J. (2025). <strong>Vulnerabilidad a la pobreza en Chile: hacia una medición oficial y políticas preventivas</strong>. En Matus, T. & Urquiza, A. (eds.), <em>El tiempo lento de Chile</em>. Publicaciones Universidad de Chile. (In Spanish).</li>
 <li>Maurizio, R., & Prieto, J. (2022). <strong>Poverty and the phenomenon of the working poor</strong>. En Labor Review 2022. Lima: OIT: Oficina Regional para LAC. (In Spanish). <a href="https://mexico.un.org/sites/default/files/2023-02/panorama_laboral_Am%C3%A9ricaLatinayelCaribe_2022_OIT.pdf" target="_blank"> Download </a></li>
 <li>Maldonado, L., Prieto, J. and Lay, S. (2016). <strong>The dynamics of poverty in Chile during the period 2006-2009</strong>. Agenda theme series Nº 87, <em>Centro UC de Políticas Públicas</em>. (In Spanish). <a href="https://politicaspublicas.uc.cl/wp-content//uploads/2016/08/N%C2%B0-87-Din%C3%A1micas-de-la-pobreza-en-Chile.pdf" target="_blank"> Download</a></li>
