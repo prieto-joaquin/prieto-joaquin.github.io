@@ -34,6 +34,7 @@ li:not(.pub-open) .pa-panel{display:none;}
 <button type="button" role="tab" data-tab="wip" aria-selected="false">Work in Progress</button>
 <button type="button" role="tab" data-tab="books" aria-selected="false">Book Chapters</button>
 <button type="button" role="tab" data-tab="projects" aria-selected="false">Projects</button>
+<button type="button" role="tab" data-tab="appointments" aria-selected="false">Appointments</button>
 </div>
 <div class="research-panel" data-panel="published" role="tabpanel">
 <p><strong>Peer reviewed journal articles (WoS &amp; JCR / Scopus &amp; SJR)</strong></p>
@@ -87,6 +88,15 @@ li:not(.pub-open) .pa-panel{display:none;}
 <li>2013-2014  Researcher, <strong>Location Preference of Low Income Households: Housing Mobility and Housing Market in the city of Santiago, Chile</strong>. Financed by LILP.</li>
 <li>2012-2013  PI, <strong>Effects of localization in poverty dynamics in Santiago city, Chile</strong>. Financed by <em>LILP</em>.</li>
 <li>2008-2010  PI, <strong>Living in Slums: A way to obtain the social housing or a location strategy to face vulnerability?</strong>. Financed by <em>LILP</em>.</li>
+</ul>
+</div>
+<div class="research-panel" data-panel="appointments" role="tabpanel" hidden>
+<ul>
+<li>2022-2028  Visiting Fellow, International Inequalities Institute at LSE. London.</li>
+<li>2020-2022  Research officer, International Inequalities Institute at LSE. London.</li>
+<li>2022 March Visiting Fellow, WEIPO at University of Alcalá de Henares. Madrid.</li>
+<li>2014-2015  Visting scholar, Boston College. Boston.</li>
+<li>2013-2014  Visting fellow, Lincoln Institute of Land Policy LILP. Cambridge, MA.</li>
 </ul>
 </div>
 <script>

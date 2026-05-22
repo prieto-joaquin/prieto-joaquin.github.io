@@ -14,14 +14,6 @@ __Consultancy and policy experience__
 2013-2015 &nbsp;Consultant, Rand Corporation. Santa Mónica. <br>
 2005-2012 &nbsp;Founder and Director, Social Observatory Centre at Universidad Alberto Hurtado, Chile.
 
-__Research experience__
-
-2022-2028 &nbsp;Visiting Fellow, International Inequalities Institute at LSE. London. <br>
-2020-2022 &nbsp;Research officer, International Inequalities Institute at LSE. London. <br>
-2022 March Visiting Fellow, WEIPO at University of Alcalá de Henares. Madrid. <br>
-2014-2015 &nbsp;Visting scholar, Boston College. Boston. <br>
-2013-2014 &nbsp;Visting fellow, Lincoln Institute of Land Policy LILP. Cambridge, MA. <br>
-
 __Policy projects__
 
 2012 &nbsp;PI, __Origin-Destination Survey__ (18,000 households). Financed by the _Transport Secretary from Transport Ministry_. <br>
