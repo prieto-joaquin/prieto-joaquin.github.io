@@ -10,9 +10,14 @@ redirect_from:
 
 __Work in Progress__
 
-1.  (with Noam Titelman). __The robots are coming for our jobs: Technological anxiety, economic Insecurity, and support for democracy in Latin America__. _Latin American Policy_. (submitted on 4 November 2024).
-2.  _Subjective Economic Insecurity: The Interplay of Age and Income Distribution in Chile_ (with Gonzalo Torres)
-3.  How does vulnerability to poverty affect subjective well-being? A secure middle-class perspective for Chile (with Gonzalo Torres)
+1.  _Why does economic pessimism remain so high in Latin America? Revisiting the question during the 2001-2023 period._ (with Noam Titelman). __R&R__.
+2.  _More Than a Bad Job: Precarious Work as a Multidimensional Capability Failure._ __Submitted__.
+3.  _Automation without a Right Turn? Technological Anxiety, Economic Insecurity and Democratic Attitudes in Latin America_ (with Noam Titelman). __Submitted__.
+4.  _Debt, Age, and the Conversion Gap in Subjective Economic Hardship: Evidence from Chile_ (with Gonzalo Torres). __Submitted__.
+5.  _How does vulnerability to poverty affect subjective well-being? A secure middle-class perspective for Chile_ (with Gonzalo Torres). __In progress__.
+6.  _Multidimensional Inequality in Latin America_ (with the CEPAL team). __In progress__.
+7.  _Economic Insecurity, Not Inequality? Explaining Social Protest Participation in Chile_ (with Benjamín Lang). __In progress__.
+8.  _Measuring and Valuing Subjective Well-Being: Applying the WELLBY Framework to Chile_ (with Camila Herrera). __In progress__.
 
 
 __Peer reviewed journal articles (WoS & JCR / Scopus & SJR)__
