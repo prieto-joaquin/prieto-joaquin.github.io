@@ -17,13 +17,12 @@ redirect_from:
 .tabpane h3{margin:.25em 0 .5em;font-size:1.15em;}
 </style>
 <div class="tabnav" role="tablist" aria-label="Policy sections">
-<button type="button" role="tab" data-tab="documents" aria-selected="true">Documents</button>
+<button type="button" role="tab" data-tab="policybrief" aria-selected="true">Policy Brief</button>
 <button type="button" role="tab" data-tab="projects" aria-selected="false">Projects</button>
 <button type="button" role="tab" data-tab="technical" aria-selected="false">Technical Reports</button>
 <button type="button" role="tab" data-tab="experience" aria-selected="false">Experience</button>
 </div>
-<div class="tabpane" data-panel="documents" role="tabpanel">
-<h3>Policy Brief</h3>
+<div class="tabpane" data-panel="policybrief" role="tabpanel">
 <ul>
 <li>Maurizio, R., & Prieto, J. (2022). <strong>Poverty and the phenomenon of the working poor</strong>. En Labor Review 2022. Lima: OIT: Oficina Regional para LAC. (In Spanish). <a href="https://mexico.un.org/sites/default/files/2023-02/panorama_laboral_Am%C3%A9ricaLatinayelCaribe_2022_OIT.pdf" target="_blank"> Download </a></li>
 <li>Brain J. & Prieto J. (2018). <strong>Understanding Changes in the Geography of Opportunity</strong>. Working paper WP18IB2. Lincoln Institute of Land Policy LILP. Cambridge, MA. <a href="https://www.lincolninst.edu/publications/working-papers/understanding-changes-in-geography-opportunity" target="_blank"> Download</a></li>
@@ -72,7 +71,7 @@ redirect_from:
   var panels=[].slice.call(document.querySelectorAll('.tabpane'));
   var names=tabs.map(function(t){return t.getAttribute('data-tab');});
   function activate(name){
-    if(names.indexOf(name)===-1){name='documents';}
+    if(names.indexOf(name)===-1){name='policybrief';}
     tabs.forEach(function(t){t.setAttribute('aria-selected', t.getAttribute('data-tab')===name?'true':'false');});
     panels.forEach(function(p){p.hidden=(p.getAttribute('data-panel')!==name);});
   }
