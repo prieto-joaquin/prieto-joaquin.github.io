@@ -18,7 +18,7 @@ author_profile: true
 .cf-send:hover{background:#3f97b1;}
 </style>
 
-<p class="cf-intro">If you would like to get in touch, feel free to write to me. I will do my best to reply as soon as possible.</p>
+<p class="cf-intro">If you would like to get in touch, feel free to write to me.<br>I will do my best to reply as soon as possible.</p>
 
 <form class="cf-form" action="https://formsubmit.co/9a8ca6b4732a3e51e59d8059592f7e50" method="POST">
   <input type="hidden" name="_subject" value="Nuevo mensaje desde tu sitio web">
