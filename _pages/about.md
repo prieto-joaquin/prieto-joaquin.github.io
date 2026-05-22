@@ -17,7 +17,7 @@ I obtained a PhD in Social Policy from the LSE. I also hold a BA in Industrial E
 
 I am a member of the WAPLAC Network (Welfare and Policy in Latin America and the Caribbean), WEIPO (Wellbeing, Inequality, Poverty and Public Policy group at the University of Alcalá de Henares, Spain), and the Work and Employment Thematic Group of the Human Development &amp; Capability Association. This year, I also co-organized the mini-conference <em>Social and Political Dynamics of Insecurity</em> at the SASE 2026 Conference in Bordeaux.
 
-__Recent updates__
+__Latest news__
 
 _Publications_
 
