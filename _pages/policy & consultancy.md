@@ -18,8 +18,8 @@ redirect_from:
 </style>
 <div class="tabnav" role="tablist" aria-label="Policy sections">
 <button type="button" role="tab" data-tab="policybrief" aria-selected="true">Policy Brief</button>
-<button type="button" role="tab" data-tab="projects" aria-selected="false">Projects</button>
 <button type="button" role="tab" data-tab="technical" aria-selected="false">Technical Reports</button>
+<button type="button" role="tab" data-tab="projects" aria-selected="false">Projects</button>
 <button type="button" role="tab" data-tab="experience" aria-selected="false">Experience</button>
 </div>
 <div class="tabpane" data-panel="policybrief" role="tabpanel">
@@ -33,6 +33,7 @@ redirect_from:
 </ul>
 </div>
 <div class="tabpane" data-panel="projects" role="tabpanel" hidden>
+<h3>Data infrastructure</h3>
 <ul>
 <li>2012  PI, <strong>Origin-Destination Survey</strong> (18,000 households). Financed by the <em>Transport Secretary from Transport Ministry</em>.</li>
 <li>2012  PI, <strong>Cadastre of Slums Households</strong> (30,000 households). Financed by the <em>Ministry of Housing and Urban Development</em>.</li>
