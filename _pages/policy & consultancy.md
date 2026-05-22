@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Policy & Public Engagement"
-permalink: /policy-consultancy/
+title: "Policy"
+permalink: /policy/
 author_profile: true
+redirect_from:
+  - /policy-consultancy/
 ---
 
 __Consultancy and policy experience__
