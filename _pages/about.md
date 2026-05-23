@@ -3,12 +3,14 @@ permalink: /
 title: "Welcome"
 excerpt: "Joaquín Prieto"
 author_profile: true
+lang: en
+lang_alt: /es/
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p style="text-align:right;font-size:.85em;color:#828282;margin:-2em 0 .8em;"><strong>EN</strong> &middot; <a href="/es/">ES</a></p>
+{% include lang-toggle.html %}
 
 Hello! I am a Visiting Fellow at the **International Inequalities Institute (III) at the LSE** and currently work as a Postdoctoral Researcher at the **Faculty of Government at the University of Chile**, where I also coordinate the **Diploma in Poverty and Inequality**. In addition, I work as a consultant for **ECLAC**, focusing on multidimensional inequality within the Social Development Division.
 

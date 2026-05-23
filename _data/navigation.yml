@@ -23,3 +23,27 @@ main:
 
 # - title: "Guide"
 #   url: /markdown/
+
+# Spanish menu. NOTE: while a page is not yet translated, its url points to the
+# English version (no broken links). When /es/<page>/ is created, switch the url.
+main_es:
+  - title: "Investigación"
+    url: /research/
+
+  - title: "Políticas"
+    url: /policy/
+
+  - title: "Presentaciones"
+    url: /presentations/
+
+  - title: "Docencia"
+    url: /teaching/
+
+  - title: "Divulgación"
+    url: /outreach/
+
+  - title: "Contacto"
+    url: /contact/
+
+  - title: "Experiencia"
+    url: /experience/

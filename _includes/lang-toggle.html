@@ -1,0 +1,1 @@
+{% assign _lang = page.lang | default: 'en' %}{% if page.lang_alt %}<p style="text-align:right;font-size:.85em;color:#828282;margin:-2em 0 .8em;">{% if _lang == 'es' %}<a href="{{ page.lang_alt }}">EN</a> &middot; <strong>ES</strong>{% else %}<strong>EN</strong> &middot; <a href="{{ page.lang_alt }}">ES</a>{% endif %}</p>{% endif %}

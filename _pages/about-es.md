@@ -3,9 +3,11 @@ permalink: /es/
 title: "Bienvenido"
 excerpt: "Joaquín Prieto"
 author_profile: true
+lang: es
+lang_alt: /
 ---
 
-<p style="text-align:right;font-size:.85em;color:#828282;margin:-2em 0 .8em;"><a href="/">EN</a> &middot; <strong>ES</strong></p>
+{% include lang-toggle.html %}
 
 ¡Hola! Soy Visiting Fellow en el **International Inequalities Institute (III) de la LSE** y actualmente me desempeño como investigador postdoctoral en la **Facultad de Gobierno de la Universidad de Chile**, donde además coordino el **Diplomado en Pobreza y Desigualdad**. Asimismo, trabajo como consultor para la **CEPAL**, enfocándome en la desigualdad multidimensional dentro de la División de Desarrollo Social.
 
