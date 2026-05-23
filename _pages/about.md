@@ -20,8 +20,9 @@ I am a member of the WAPLAC Network (Welfare and Policy in Latin America and the
 __Latest news__
 
 <style>
-.ig-feed{max-width:640px;margin:.6em 0 0;}
+.ig-feed{max-width:540px;margin:.6em 0 0;}
 </style>
 <div class="ig-feed" markdown="0">
-<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/76ad04244abd5387ac61a61c9f30cc5d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DXrmVpSkmRk/" data-instgrm-version="14" style="background:#FFF;border:0;border-radius:3px;box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);margin:0;max-width:540px;min-width:326px;padding:0;width:100%;"></blockquote>
+<script async src="https://www.instagram.com/embed.js"></script>
 </div>
