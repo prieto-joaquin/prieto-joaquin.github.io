@@ -21,10 +21,11 @@ __Latest news__
 
 <style>
 .ig-grid{display:flex;flex-wrap:wrap;gap:16px;max-width:720px;margin:.6em 0 0;}
-.ig-grid .instagram-media{flex:1 1 300px;min-width:280px !important;max-width:420px !important;margin:0 !important;}
+.ig-card{flex:1 1 300px;min-width:260px;max-width:340px;position:relative;display:block;overflow:hidden;border-radius:8px;aspect-ratio:1/1;}
+.ig-card img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s ease, filter .45s ease;}
+.ig-card:hover img{transform:scale(1.04);filter:brightness(.9);}
 </style>
 <div class="ig-grid" markdown="0">
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DXrmVpSkmRk/" data-instgrm-version="14"></blockquote>
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DTnMUoLDt5I/" data-instgrm-version="14"></blockquote>
-<script async src="https://www.instagram.com/embed.js"></script>
+<a class="ig-card" href="https://www.instagram.com/p/DXrmVpSkmRk/" target="_blank" rel="noopener"><img src="/images/ig-1.jpg" alt="Instagram post"></a>
+<a class="ig-card" href="https://www.instagram.com/p/DTnMUoLDt5I/" target="_blank" rel="noopener"><img src="/images/ig-2.jpg" alt="Instagram post"></a>
 </div>
