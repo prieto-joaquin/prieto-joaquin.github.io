@@ -17,7 +17,7 @@ author_profile: true
 .out-act:hover{border-color:#52adc8;background:#52adc8;color:#fff;}
 </style>
 <div class="tabnav" role="tablist" aria-label="Outreach sections">
-<button type="button" role="tab" data-tab="columns" aria-selected="true">Opinion columns</button>
+<button type="button" role="tab" data-tab="columns" aria-selected="true">Op-Eds</button>
 <button type="button" role="tab" data-tab="interviews" aria-selected="false">Interviews</button>
 <button type="button" role="tab" data-tab="podcast" aria-selected="false">Podcast</button>
 </div>
