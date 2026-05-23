@@ -26,6 +26,6 @@ __Latest news__
 .ig-card:hover img{transform:scale(1.04);filter:brightness(.9);}
 </style>
 <div class="ig-grid" markdown="0">
-<a class="ig-card" href="https://www.instagram.com/p/DXrmVpSkmRk/" target="_blank" rel="noopener"><img src="/images/ig-1.jpg" alt="Instagram post"></a>
-<a class="ig-card" href="https://www.instagram.com/p/DTnMUoLDt5I/" target="_blank" rel="noopener"><img src="/images/ig-2.jpg" alt="Instagram post"></a>
+<a class="ig-card" href="https://www.instagram.com/p/DXrmVpSkmRk/" target="_blank" rel="noopener"><img src="/images/latest_news/ig-1.jpg" alt="Instagram post"></a>
+<a class="ig-card" href="https://www.instagram.com/p/DTnMUoLDt5I/" target="_blank" rel="noopener"><img src="/images/latest_news/ig-2.jpg" alt="Instagram post"></a>
 </div>
