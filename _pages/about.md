@@ -21,11 +21,10 @@ __Latest news__
 
 <style>
 .ig-feed{max-width:640px;margin:.6em 0 0;}
-.ig-follow{margin:.7em 0 0;font-size:.95rem;}
-.ig-follow a{color:#52adc8;text-decoration:none;}
-.ig-follow a:hover{text-decoration:underline;}
+.ig-follow-btn{display:inline-block;margin:.8em 0 0;padding:.55em 1.2em;border:1px solid #52adc8;border-radius:8px;color:#52adc8;text-decoration:none;font-size:.95rem;}
+.ig-follow-btn:hover{background:#52adc8;color:#fff;}
 </style>
 <div class="ig-feed" markdown="0">
 <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/76ad04244abd5387ac61a61c9f30cc5d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-<p class="ig-follow"><a href="https://instagram.com/joaquin.prieto.uchile" target="_blank" rel="noopener">Follow @joaquin.prieto.uchile on Instagram &rarr;</a></p>
 </div>
+<a class="ig-follow-btn" href="https://instagram.com/joaquin.prieto.uchile" target="_blank" rel="noopener">Follow @joaquin.prieto.uchile on Instagram &rarr;</a>
