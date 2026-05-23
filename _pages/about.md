@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I am a Visiting Fellow at the **International Inequalities Institute (III) at the LSE** and currently work as a Postdoctoral Researcher at the **Faculty of Government at the University of Chile**, where I also coordinate the **Diploma in Poverty and Inequality**. In addition, I work as a consultant for **ECLAC**, focusing on multidimensional inequality within the Social Development Division.
+Hello! I am a Visiting Fellow at the **International Inequalities Institute (III) at the LSE** and currently work as a Postdoctoral Researcher at the **Faculty of Government at the University of Chile**, where I also coordinate the **Diploma in Poverty and Inequality**. In addition, I work as a consultant for **ECLAC**, focusing on multidimensional inequality within the Social Development Division.
 
 My research focuses on the measurement of poverty, inequality, and **new approaches to well-being**, as well as on economic insecurity in transforming labour markets and regional disparities shaped by territorial and institutional contexts. More broadly, I am interested in the evolution of welfare states, labour instability, material and subjective well-being, and the institutional capacities that sustain effective systems of social protection. My current work develops new economic and social well-being measures aimed at **improving public policy design** and contributing to more inclusive and sustainable development in emerging countries.
 
