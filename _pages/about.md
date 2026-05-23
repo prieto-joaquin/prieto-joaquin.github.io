@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<p style="text-align:right;font-size:.85em;color:#828282;"><strong>EN</strong> &middot; <a href="/es/">ES</a></p>
 
 Hello! I am a Visiting Fellow at the **International Inequalities Institute (III) at the LSE** and currently work as a Postdoctoral Researcher at the **Faculty of Government at the University of Chile**, where I also coordinate the **Diploma in Poverty and Inequality**. In addition, I work as a consultant for **ECLAC**, focusing on multidimensional inequality within the Social Development Division.
 
@@ -19,13 +20,4 @@ I am a member of the **WAPLAC Network** (Welfare and Policy in Latin America and
 
 __Latest news__
 
-<style>
-.ig-grid{display:flex;flex-wrap:wrap;gap:16px;max-width:720px;margin:.6em 0 0;}
-.ig-card{flex:1 1 300px;min-width:260px;max-width:340px;position:relative;display:block;overflow:hidden;border-radius:8px;aspect-ratio:1/1;}
-.ig-card img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s ease, filter .45s ease;}
-.ig-card:hover img{transform:scale(1.04);filter:brightness(.9);}
-</style>
-<div class="ig-grid" markdown="0">
-<a class="ig-card" href="https://www.instagram.com/p/DXrmVpSkmRk/" target="_blank" rel="noopener"><img src="/images/latest_news/ig-1.jpg" alt="Instagram post"></a>
-<a class="ig-card" href="https://www.instagram.com/p/DTnMUoLDt5I/" target="_blank" rel="noopener"><img src="/images/latest_news/ig-2.jpg" alt="Instagram post"></a>
-</div>
+{% include latest-news.html %}
