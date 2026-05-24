@@ -12,6 +12,8 @@
 {% assign t_pub = 'Publicado' %}
 {% assign t_wp = 'Working paper' %}
 {% assign t_research_url = '/es/research/' %}
+{% assign t_tr = 'Informe técnico' %}
+{% assign t_policy_url = '/es/policy/' %}
 {% else %}
 {% assign t_tab_conf = 'Conferences' %}
 {% assign t_tab_talks = 'Talks' %}
@@ -25,6 +27,8 @@
 {% assign t_pub = 'Published' %}
 {% assign t_wp = 'Working paper' %}
 {% assign t_research_url = '/research/' %}
+{% assign t_tr = 'Technical report' %}
+{% assign t_policy_url = '/policy/' %}
 {% endif %}
 <style>
 .tabnav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 1.5em;padding:0;}
@@ -48,6 +52,7 @@
 a.stag:hover{opacity:.78;text-decoration:none;}
 .stag-pub{background:#efe7f4;color:#6b3fa0;}
 .stag-wp{background:#f7e9ec;color:#9b2c4a;}
+.stag-tr{background:#e8e9f0;color:#4a4f78;}
 </style>
 <div class="tabnav" role="tablist" aria-label="{{ t_aria }}">
 <button type="button" role="tab" data-tab="conferences" aria-selected="true">{{ t_tab_conf }}</button>
@@ -133,7 +138,7 @@ a.stag:hover{opacity:.78;text-decoration:none;}
 <div class="yr"><span class="yr-label">{{ t_earlier }}</span><span class="yr-rule"></span></div>
 <ul class="yr-list">
 <li>Understanding changes in the geography of opportunity: the case of Santiago, Chile, <strong>Human Development &amp; Capability Association Conference, Buenos Aires</strong>, 1 September 2018.<a class="stag stag-pub" href="{{ t_research_url }}#published">{{ t_pub }}</a></li>
-<li>Design of Panel Surveys from the perspective of both Survey Errors and Survey Costs: the case of Longitudinal Social Protection Surveys in Latin America, <strong>Methodology of Longitudinal Surveys II Conference, at the University of Essex, Colchester</strong>, 25 July 2018.</li>
+<li>Design of Panel Surveys from the perspective of both Survey Errors and Survey Costs: the case of Longitudinal Social Protection Surveys in Latin America, <strong>Methodology of Longitudinal Surveys II Conference, at the University of Essex, Colchester</strong>, 25 July 2018.<a class="stag stag-tr" href="{{ t_policy_url }}#technical">{{ t_tr }}</a></li>
 <li>Understanding the attrition bias in Chile: evidence from two longitudinal surveys, <strong>7th Conference of the European Survey Research Association, Lisbon</strong>, July 20, 2017</li>
 <li>Income Poverty Persistence and Multidimensional Poverty Persistence in Chile, <strong>Understanding Society Scientific Conference, at the University of Essex, Colchester</strong>, 11 July 2017</li>
 <li>Take-up of unemployment insurance and job search behavior in Chile: New evidence for the period 2009-2015, <strong>5th Conference of the Regulating for Decent Work Network At the International Labour Office Geneva</strong>, July 4th, 2017</li>
@@ -194,7 +199,7 @@ a.stag:hover{opacity:.78;text-decoration:none;}
 <li><span class="ptag ptag-talk">{{ t_talk }}</span> Measuring economic insecurity: an application to Chile, <strong>Núcleo Milenio en Desarrollo Social</strong>, Santiago, Chile, 28 January 2020.<a class="stag stag-pub" href="{{ t_research_url }}#published">{{ t_pub }}</a></li>
 <li><span class="ptag ptag-talk">{{ t_talk }}</span> New approaches to measuring economic and social well-being in Chile, <strong>Fundación para la Superación de la Pobreza</strong>, at Santiago, Chile, 13 December 2019.</li>
 <li><span class="ptag ptag-conf">{{ t_conf }}</span> Understanding changes in the geography of opportunity: the case of Santiago, Chile, <strong>Human Development &amp; Capability Association Conference, Buenos Aires</strong>, 1 September 2018.<a class="stag stag-pub" href="{{ t_research_url }}#published">{{ t_pub }}</a></li>
-<li><span class="ptag ptag-conf">{{ t_conf }}</span> Design of Panel Surveys from the perspective of both Survey Errors and Survey Costs: the case of Longitudinal Social Protection Surveys in Latin America, <strong>Methodology of Longitudinal Surveys II Conference, at the University of Essex, Colchester</strong>, 25 July 2018.</li>
+<li><span class="ptag ptag-conf">{{ t_conf }}</span> Design of Panel Surveys from the perspective of both Survey Errors and Survey Costs: the case of Longitudinal Social Protection Surveys in Latin America, <strong>Methodology of Longitudinal Surveys II Conference, at the University of Essex, Colchester</strong>, 25 July 2018.<a class="stag stag-tr" href="{{ t_policy_url }}#technical">{{ t_tr }}</a></li>
 <li><span class="ptag ptag-conf">{{ t_conf }}</span> Understanding the attrition bias in Chile: evidence from two longitudinal surveys, <strong>7th Conference of the European Survey Research Association, Lisbon</strong>, July 20, 2017</li>
 <li><span class="ptag ptag-conf">{{ t_conf }}</span> Income Poverty Persistence and Multidimensional Poverty Persistence in Chile, <strong>Understanding Society Scientific Conference, at the University of Essex, Colchester</strong>, 11 July 2017</li>
 <li><span class="ptag ptag-conf">{{ t_conf }}</span> Take-up of unemployment insurance and job search behavior in Chile: New evidence for the period 2009-2015, <strong>5th Conference of the Regulating for Decent Work Network At the International Labour Office Geneva</strong>, July 4th, 2017</li>
