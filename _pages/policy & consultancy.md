@@ -3,9 +3,13 @@ layout: archive
 title: "Policy"
 permalink: /policy/
 author_profile: true
+lang: en
+lang_alt: /es/policy/
 redirect_from:
   - /policy-consultancy/
 ---
+
+{% include lang-toggle.html %}
 
 <style>
 .tabnav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 1.5em;padding:0;}
