@@ -18,7 +18,7 @@ My research focuses on the measurement of poverty, inequality, and **new approac
 
 I obtained a **PhD in Social Policy from the LSE**. I also hold a BA in Industrial Engineering, an MSc in Economy and Environmental Management, and postgraduate studies in Sociology from Pontificia Universidad Católica de Chile. Before joining the International Inequalities Institute, I founded and directed the Social Observatory at Universidad Alberto Hurtado in Chile, specializing in longitudinal data for social policy design, implementation, and monitoring.
 
-I am a member of the **WAPLAC Network** (Welfare and Policy in Latin America and the Caribbean), **WEIPO** (Wellbeing, Inequality, Poverty and Public Policy group at the University of Alcalá de Henares, Spain), and the Work and Employment Thematic Group of the **HDCA** (Human Development &amp; Capability Association). This year, I also co-organized the mini-conference <em>Social and Political Dynamics of Insecurity</em> at the **SASE** 2026 Conference in Bordeaux.
+I am a member of the **WAPLAC Network** (Welfare and Policy in Latin America and the Caribbean), **WEIPO** (Wellbeing, Inequality, Poverty and Public Policy group at the University of Alcalá de Henares, Spain), and the Work and Employment Thematic Group of the **HDCA** (Human Development &amp; Capability Association). This year, I also co-organized the mini-conference <em>Social and Political Dynamics of Insecurity</em> at the **SASE** 2026 in Bordeaux.
 
 My current work develops new economic and social well-being measures aimed at **improving public policy design** and contributing to more inclusive and sustainable development in emerging countries.
 
