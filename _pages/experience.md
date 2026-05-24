@@ -3,7 +3,11 @@ layout: archive
 title: "Work Experience"
 permalink: /experience/
 author_profile: true
+lang: en
+lang_alt: /es/experience/
 ---
+
+{% include lang-toggle.html %}
 
 <style>
 .exp h3{margin:.25em 0 .5em;font-size:1.15em;}
