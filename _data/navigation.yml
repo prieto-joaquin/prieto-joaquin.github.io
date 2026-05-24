@@ -21,6 +21,9 @@ main:
   - title: "Work Experience"
     url: /experience/
 
+  - title: "News"
+    url: /news/
+
 # - title: "Guide"
 #   url: /markdown/
 
@@ -47,3 +50,6 @@ main_es:
 
   - title: "Experiencia"
     url: /es/experience/
+
+  - title: "Noticias"
+    url: /es/news/
