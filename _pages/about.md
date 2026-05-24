@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
+seo_title: "Joaquín Prieto, PhD in Social Policy, LSE"
 excerpt: "Joaquín Prieto"
 author_profile: true
 lang: en
