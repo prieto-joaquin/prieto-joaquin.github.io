@@ -66,8 +66,8 @@ li:not(.pub-open) .pa-panel{display:none;}
 .stag{display:inline-block;font-size:.7em;font-weight:bold;letter-spacing:.3px;text-transform:uppercase;padding:1px 7px;border-radius:10px;margin-left:6px;vertical-align:1px;text-decoration:none;}
 a.stag:hover{opacity:.78;text-decoration:none;}
 .stag-wp{background:#f7e9ec;color:#9b2c4a;}
-@keyframes wpflash{0%{background:#f7e9ec;}100%{background:transparent;}}
-li.wp-flash{animation:wpflash 2.4s ease-out;border-radius:5px;}
+@keyframes wpflash{0%{background:#f7e9ec;}40%{background:#f7e9ec;}100%{background:transparent;}}
+li.wp-flash{animation:wpflash 2.6s ease-out;border-radius:4px;}
 .stag-rr{background:#f6efe0;color:#8a5a12;}
 .stag-sub{background:#e6f1f6;color:#2c7088;}
 .stag-prog{background:#edf3e3;color:#5c7a26;}
@@ -194,18 +194,38 @@ li.wp-flash{animation:wpflash 2.4s ease-out;border-radius:5px;}
       if(window.history&&history.replaceState){history.replaceState(null,'','#'+name);}
     });
   });
+  function flash(el){
+    el.classList.remove('wp-flash');
+    void el.offsetWidth;
+    el.classList.add('wp-flash');
+    setTimeout(function(){el.classList.remove('wp-flash');},2600);
+  }
+  function goToId(id){
+    var el=document.getElementById(id);
+    if(!el){return false;}
+    var panel=el.closest('.research-panel');
+    if(panel){activate(panel.getAttribute('data-panel'));}
+    try{el.scrollIntoView({behavior:'smooth',block:'center'});}catch(e){}
+    flash(el);
+    return true;
+  }
   function activateByHash(){
     var h=(window.location.hash||'').replace('#','');
     if(names.indexOf(h)!==-1){activate(h);return;}
-    var el=h?document.getElementById(h):null;
-    if(el){
-      var panel=el.closest('.research-panel');
-      if(panel){activate(panel.getAttribute('data-panel'));}
-      el.classList.add('wp-flash');
-      try{el.scrollIntoView({behavior:'smooth',block:'center'});}catch(e){}
-      setTimeout(function(){el.classList.remove('wp-flash');},2400);
-    }else{activate('published');}
+    if(h&&goToId(h)){return;}
+    activate('published');
   }
+  document.querySelectorAll('a.stag[href^="#"]').forEach(function(a){
+    a.addEventListener('click',function(e){
+      var id=a.getAttribute('href').replace('#','');
+      if(names.indexOf(id)!==-1){return;}
+      if(document.getElementById(id)){
+        e.preventDefault();
+        goToId(id);
+        if(window.history&&history.replaceState){history.replaceState(null,'','#'+id);}
+      }
+    });
+  });
   window.addEventListener('hashchange',activateByHash);
   activateByHash();
 })();
