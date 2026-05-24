@@ -10,7 +10,7 @@ lang_alt: /experience/
 {% include lang-toggle.html %}
 
 <style>
-.exp h3{margin:.25em 0 .5em;font-size:1.15em;}
+.exp h3{margin:1em 0 .5em;font-size:1.15em;}
 .exp li{margin-bottom:.6em;}
 .out-act{font-size:.8em;border:1px solid #ccc;border-radius:5px;padding:1px 9px;color:#52adc8;text-decoration:none;white-space:nowrap;margin-left:5px;}
 .out-act:hover{border-color:#52adc8;background:#52adc8;color:#fff;}
