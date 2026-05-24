@@ -17,7 +17,7 @@ Obtuve un **doctorado (PhD) en Política Social en la LSE**. También soy Ingeni
 
 Soy miembro de la **Red WAPLAC** (Welfare and Policy in Latin America and the Caribbean), de **WEIPO** (grupo Wellbeing, Inequality, Poverty and Public Policy de la Universidad de Alcalá de Henares, España) y del Grupo Temático de Trabajo y Empleo de la **HDCA** (Human Development &amp; Capability Association). Este año, además, co-organicé la mini-conferencia <em>Social and Political Dynamics of Insecurity</em> en **SASE** 2026 en Burdeos.
 
-Mi trabajo actual desarrolla nuevas medidas de bienestar económico y social orientadas a **mejorar el diseño de políticas públicas** y a contribuir a un desarrollo más inclusivo y sostenible en los países emergentes.
+Mi trabajo actual desarrolla nuevas medidas de bienestar orientadas a **mejorar el diseño de políticas públicas** y a contribuir a un desarrollo más inclusivo y sostenible en los países emergentes.
 
 __Últimas noticias__
 

@@ -20,7 +20,7 @@ I obtained a **PhD in Social Policy from the LSE**. I also hold a BA in Industri
 
 I am a member of the **WAPLAC Network** (Welfare and Policy in Latin America and the Caribbean), **WEIPO** (Wellbeing, Inequality, Poverty and Public Policy group at the University of Alcalá de Henares, Spain), and the Work and Employment Thematic Group of the **HDCA** (Human Development &amp; Capability Association). This year, I also co-organized the mini-conference <em>Social and Political Dynamics of Insecurity</em> at the **SASE** 2026 in Bordeaux.
 
-My current work develops new economic and social well-being measures aimed at **improving public policy design** and contributing to more inclusive and sustainable development in emerging countries.
+My current work develops new well-being measures aimed at **improving public policy design** and contributing to more inclusive and sustainable development in emerging countries.
 
 __Latest news__
 
