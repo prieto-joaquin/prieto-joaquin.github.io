@@ -17,6 +17,7 @@
 {% assign t_prog = 'En curso' %}
 {% assign t_issued = 'Disponible como:' %}
 {% assign t_alsopub = 'También publicado' %}
+{% assign t_wp = 'Working paper' %}
 {% assign t_phdthesis = 'Tesis doctoral' %}
 {% assign t_bookchapters = 'Capítulos de libro' %}
 {% assign t_bookseditor = 'Libros como editor' %}
@@ -38,6 +39,7 @@
 {% assign t_prog = 'In progress' %}
 {% assign t_issued = 'Issued as:' %}
 {% assign t_alsopub = 'Also published' %}
+{% assign t_wp = 'Working paper' %}
 {% assign t_phdthesis = 'PhD thesis' %}
 {% assign t_bookchapters = 'Book chapters' %}
 {% assign t_bookseditor = 'Books editor' %}
@@ -61,7 +63,9 @@ li.pub-open .paper-actions{display:flex;}
 .pa-panel{margin:6px 0 4px 1.4em;padding:10px 14px;background:#f7f7f6;border-left:3px solid #52adc8;border-radius:0 5px 5px 0;font-size:.92em;text-align:justify;}
 .pa-panel[hidden]{display:none;}
 li:not(.pub-open) .pa-panel{display:none;}
-.stag{display:inline-block;font-size:.7em;font-weight:bold;letter-spacing:.3px;text-transform:uppercase;padding:1px 7px;border-radius:10px;margin-left:6px;vertical-align:1px;}
+.stag{display:inline-block;font-size:.7em;font-weight:bold;letter-spacing:.3px;text-transform:uppercase;padding:1px 7px;border-radius:10px;margin-left:6px;vertical-align:1px;text-decoration:none;}
+a.stag:hover{opacity:.78;text-decoration:none;}
+.stag-wp{background:#f7e9ec;color:#9b2c4a;}
 .stag-rr{background:#f6efe0;color:#8a5a12;}
 .stag-sub{background:#e6f1f6;color:#2c7088;}
 .stag-prog{background:#edf3e3;color:#5c7a26;}
@@ -101,7 +105,7 @@ li:not(.pub-open) .pa-panel{display:none;}
 <li>Economic Insecurity, Not Inequality? Explaining Social Protest Participation in Chile <em>({{ t_with }} Benjamín Lang)</em>.<span class="stag stag-prog">{{ t_prog }}</span></li>
 <li>Measuring and Valuing Subjective Well-Being: Applying the WELLBY Framework to Chile <em>({{ t_with }} Camila Herrera)</em>.<span class="stag stag-prog">{{ t_prog }}</span></li>
 <li>Earnings volatility in Latin America: evidence from administrative data. <em>({{ t_with }} Verónica Amarante, Paula Carrasco, Markus Nabernegg {{ t_and }} Xavier Jara Tamayo)</em>.<span class="stag stag-prog">{{ t_prog }}</span></li>
-<li>The cumulative effects of macroeconomic performance on political and economic attitudes: evidence from Latin America <em>({{ t_with }} Noam Titelman)</em>.<span class="stag stag-prog">{{ t_prog }}</span></li>
+<li>The cumulative effects of macroeconomic performance on political and economic attitudes: evidence from Latin America <em>({{ t_with }} Noam Titelman)</em>.<span class="stag stag-prog">{{ t_prog }}</span><a class="stag stag-wp" href="#workingpapers">{{ t_wp }}</a></li>
 </ol>
 </div>
 <div class="research-panel" data-panel="books" role="tabpanel" hidden>
@@ -188,6 +192,7 @@ li:not(.pub-open) .pa-panel{display:none;}
       if(window.history&&history.replaceState){history.replaceState(null,'','#'+name);}
     });
   });
+  window.addEventListener('hashchange',function(){activate((window.location.hash||'').replace('#',''));});
   activate((window.location.hash||'').replace('#',''));
 })();
 document.querySelectorAll('.cite').forEach(function(c){function t(){c.closest('li').classList.toggle('pub-open');}c.addEventListener('click',t);c.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();t();}});});document.querySelectorAll('.pa-abstract').forEach(function(b){b.addEventListener('click',function(e){e.stopPropagation();var p=b.parentElement.parentElement.querySelector('.pa-panel');if(!p)return;var o=p.hasAttribute('hidden');if(o){p.removeAttribute('hidden');}else{p.setAttribute('hidden','');}b.setAttribute('aria-expanded',o?'true':'false');});});
