@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Presentations"
-permalink: /presentations/
+title: "Presentaciones"
+permalink: /es/presentations/
 author_profile: true
-lang: en
-lang_alt: /es/presentations/
+lang: es
+lang_alt: /presentations/
 ---
 
 {% include lang-toggle.html %}
