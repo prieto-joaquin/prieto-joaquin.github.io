@@ -28,7 +28,7 @@ main:
 # English version (no broken links). When /es/<page>/ is created, switch the url.
 main_es:
   - title: "Investigación"
-    url: /research/
+    url: /es/research/
 
   - title: "Políticas"
     url: /es/policy/
