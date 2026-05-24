@@ -3,7 +3,11 @@ layout: archive
 title: "Outreach"
 permalink: /outreach/
 author_profile: true
+lang: en
+lang_alt: /es/outreach/
 ---
+
+{% include lang-toggle.html %}
 
 <style>
 .tabnav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 1.5em;padding:0;}
