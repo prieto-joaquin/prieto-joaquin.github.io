@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Contact"
-permalink: /contact/
+title: "Contacto"
+permalink: /es/contact/
 author_profile: true
-lang: en
-lang_alt: /es/contact/
+lang: es
+lang_alt: /contact/
 ---
 
 {% include lang-toggle.html %}
@@ -22,7 +22,7 @@ lang_alt: /es/contact/
 .cf-send:hover{background:#3f97b1;}
 </style>
 
-<p class="cf-intro">If you would like to get in touch, feel free to write to me.<br>I will do my best to reply as soon as possible.</p>
+<p class="cf-intro">Si quieres ponerte en contacto, no dudes en escribirme.<br>Haré lo posible por responder a la brevedad.</p>
 
 <form class="cf-form" action="https://formsubmit.co/9a8ca6b4732a3e51e59d8059592f7e50" method="POST">
   <input type="hidden" name="_subject" value="Nuevo mensaje desde tu sitio web">
@@ -30,16 +30,16 @@ lang_alt: /es/contact/
   <input type="hidden" name="_template" value="table">
   <input type="text" name="_honey" style="display:none">
   <div class="cf-row">
-    <label for="cf-name">Name</label>
+    <label for="cf-name">Nombre</label>
     <input id="cf-name" class="cf-narrow" type="text" name="name" required>
   </div>
   <div class="cf-row">
-    <label for="cf-email">Your email</label>
+    <label for="cf-email">Tu correo</label>
     <input id="cf-email" class="cf-narrow" type="email" name="email" required>
   </div>
   <div class="cf-row">
-    <label for="cf-message">Message</label>
+    <label for="cf-message">Mensaje</label>
     <textarea id="cf-message" name="message" required></textarea>
   </div>
-  <button class="cf-send" type="submit">Send</button>
+  <button class="cf-send" type="submit">Enviar</button>
 </form>
