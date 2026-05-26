@@ -73,9 +73,11 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          :
+  goatcounter:
+    code                 :  "prieto-joaquin" # your GoatCounter subdomain code (panel: prieto-joaquin.goatcounter.com)
 
 
 # Site Author
