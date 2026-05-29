@@ -10,7 +10,7 @@ lang_alt: /
 
 {% include lang-toggle.html %}
 
-Hola. Soy Visiting Fellow en el **International Inequalities Institute (III) de la LSE** y actualmente me desempeño como investigador postdoctoral en la **Facultad de Gobierno de la Universidad de Chile**, donde además coordino el **Diplomado en Pobreza y Desigualdad**. Asimismo, trabajo como consultor para la **CEPAL**, enfocándome en la desigualdad multidimensional dentro de la División de Desarrollo Social.
+Hola. Soy Visiting Fellow en el **International Inequalities Institute (III) de la LSE** y actualmente me desempeño como investigador postdoctoral en la **Facultad de Gobierno de la Universidad de Chile**, donde además coordino el <a href="https://diplomasuchile.cl/pobreza-y-desigualdad-herramientas-analiticas-para-su-estudio-y-la-formulacion-de-politicas-publicas-basadas-en-evidencia" target="_blank" rel="noopener"><strong>Diplomado en Pobreza y Desigualdad</strong></a>. Asimismo, trabajo como consultor para la **CEPAL**, enfocándome en la desigualdad multidimensional dentro de la División de Desarrollo Social.
 
 Mis principales temas de interés son la **evolución de los estados de bienestar**, la inestabilidad laboral, el bienestar material y subjetivo, y las capacidades institucionales que sostienen sistemas eficaces de protección social. En ese marco, mi investigación se centra en la medición de la pobreza, la desigualdad y los **nuevos enfoques sobre bienestar**, así como en la inseguridad económica en mercados laborales en transformación y las disparidades regionales moldeadas por contextos territoriales e institucionales.
 
